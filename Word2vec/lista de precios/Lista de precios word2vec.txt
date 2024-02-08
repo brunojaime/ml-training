@@ -1,0 +1,1195 @@
+L.1.3.01.01 MONTAJE CSMT 13,2 kV 3x50/25 mm2 AL/CU 1 TERNA s/vereda KM 8.815.447 25.740.289 34.555.736
+L.1.3.01.02 MONTAJE CSMT 13,2 kV 3x185/50 mm2 AL/CU 1 TERNA s/vereda KM 18.229.066 26.392.579 44.621.645
+L.1.3.01.03 MONTAJE CSMT 13,2 kV 3x185/50 mm2 AL/CU 2 TERNAS s/vereda KM 36.458.131 40.428.261 76.886.392
+L.1.3.01.04 MONTAJE CSMT 13,2 kV 3x300/50 mm2 AL/CU 1 TERNA s/vereda KM 21.893.187 26.392.579 48.285.766
+L.1.3.01.05 MONTAJE CSMT 13,2 kV 3x300/50 mm2 AL/CU 2 TERNAS s/vereda KM 43.786.373 40.428.261 84.214.634
+UNIPOLARES AISLACIÓN XLPE 13,2 kV, con reparación vereda.
+L.1.3.02.01 MONTAJE CSMT 13,2 kV 3x50/25 mm2 AL/CU 1 TERNA c/vereda KM 8.815.447 41.404.809 50.220.256
+L.1.3.02.02 MONTAJE CSMT 13,2 kV 3x185/50 mm2 AL/CU 1 TERNA c/vereda KM 18.229.066 42.057.099 60.286.165
+L.1.3.02.03 MONTAJE CSMT 13,2 kV 3x185/50 mm2 AL/CU 2 TERNAS c/vereda KM 36.458.131 65.597.855 102.055.986
+L.1.3.02.04 MONTAJE CSMT 13,2 kV 3x300/50 mm2 AL/CU 1 TERNA c/vereda KM 21.893.187 42.057.099 63.950.286
+L.1.3.02.05 MONTAJE CSMT 13,2 kV 3x300/50 mm2 AL/CU 2 TERNAS c/vereda KM 43.786.373 65.597.855 109.384.228
+UNIPOLARES AISLACIÓN XLPE 13,2 kV, con rotura y reparación de piso con hormigón
+L.1.3.03.01 MONTAJE CSMT 13,2 kV 3x50/25 mm2 AL/CU 1TERNA c/rotura y reparación de piso con hormigón KM 8.815.447 44.806.945 53.622.392
+L.1.3.03.02 MONTAJE CSMT 13,2 kV 3x185/50 mm2 AL/CU 1 TERNA c/rotura y reparación de piso con hormigón KM 18.229.066 45.459.235 63.688.301
+L.1.3.03.03 MONTAJE CSMT 13,2 kV 3x185/50 mm2 AL/CU 2 TERNAS c/rotura y reparación de piso con hormigón KM 36.458.131 72.233.448 108.691.579
+L.1.3.03.04 MONTAJE CSMT 13,2 kV 3x300/50 mm2 AL/CU 1 TERNA c/rotura y reparación de piso con hormigón KM 21.893.187 45.459.235 67.352.422
+L.1.3.03.05 MONTAJE CSMT 13,2 kV 3x300/50 mm2 AL/CU 2 TERNAS c/rotura y reparación de piso con hormigón KM 43.786.373 72.233.448 116.019.821
+Coordinado: Supervisado:
+Fecha de Edición: Septiembre de 1993 Fecha de Actualización: Revisión Nº
+José Facundo Corso Lucas Waldemar Rodríguez
+noviembre de 2023 74
+Aprobado:
+ Marcelo Licata Caruso
+10 - LISTADO DE PRECIOS DE INSTALACIONES 
+Y MATERIALES DE DISTRIBUCION 10.1 - 4 de 35
+UNIDADES DE OBRA Ingenieria y Obras de Distribución
+Normas Generales
+Página
+SERVICIO DESCRIPCION MATERIAL ($) SYSE ($) TOTAL ($)
+RED SUBTERRÁNEA DE MEDIA TENSIÓN
+UN.
+ACCESORIOS PARA CABLES SUBTERRÁNEOS 13,2 KV
+EMPALMES RECTOS 13,2 kV. Incluye zanjeo adicional al tendido y tapada. No incluye reparación vereda.
+L.1.4.01.01 EJECUCIÓN EMPALME TRANSICIÓN API/XLPE 185 mm2 s/vereda. Por unidad. C/U 58.102 233.725 291.827
+L.1.4.01.02 EJECUCIÓN EMPALME RECTO UNIPOLAR 185 o 300 mm2 s/vereda. Por conjunto de 3 unidades. TER 68.417 205.292 273.709
+EMPALMES RECTOS 13,2 kV. Incluye zanjeo adicional al tendido y tapada. Con reparación vereda.
+L.1.4.02.01 EJECUCIÓN EMPALME TRANSICIÓN API/XLPE 185 mm2 c/vereda. Por unidad. C/U 58.102 317.338 375.440
+L.1.4.02.02 EJECUCIÓN EMPALME RECTO UNIPOLAR 185 o 300 mm2 c/vereda. Por conjunto de 3 unidades. TER 68.417 288.905 357.322
+TERMINALES UNIPOLARES TIPO INTERIOR. 13,2 kV
+L.1.4.03.01 EJECUCIÓN TERMINAL UNIPOLAR 13kV 185 o 300 mm2 Interior. Por conjunto de 3 unidades. TER 25.854 97.819 123.673
+L.1.4.03.02 EJECUCIÓN TERMINAL UNIPOLAR 13kV 50 mm2 Interior. Por conjunto de 3 unidades. TER 23.917 97.819 121.736
+TERMINALES UNIPOLARES TIPO EXTERIOR 13,2 kV
+L.1.4.04.01 EJECUCIÓN TERMINAL UNIPOLAR 13kV 185 mm2 Exterior X Cjto de 3 Uds. Incluye subida de cable a poste y provisión y 
+colocación de herrajes de protección y sujeción del cable. También incluye montaje de seccionadores, descargadores y jabalina 
+p.a.t.
+TER 764.737 414.117 1.178.854
+MONTAJE CABLES SUBTERRÁNEO 33 kV. Incluye provisión y colocación de losetas (o caños en vereda, de ser necesario), cruces de calle (con caño de reserva), y 
+cualquier otra excavación requerida en el montaje. Excluye empalmes y terminales.
+UNIPOLARES AISLACIÓN XLPE 33 kV, sin reparación vereda (en terreno sin piso de material).
+L.1.5.01.01 MONTAJE CSMT 33 kV 3x185/25 mm2 AL/CU 1 TERNA s/vereda KM 23.697.785 26.392.579 50.090.364
+L.1.5.01.02 MONTAJE CSMT 33 kV 3x185/25 mm2 AL/CU 2 TERNAS s/vereda KM 47.395.571 43.507.360 90.902.931
+UNIPOLARES AISLACIÓN XLPE 33 kV, con reparación vereda.
+L.1.5.02.01 MONTAJE CSMT 33 kV 3x185/25 mm2 AL/CU 1 TERNA c/vereda KM 23.697.785 42.057.099 65.754.884
+L.1.5.02.02 MONTAJE CSMT 33 kV 3x185/25 mm2 AL/CU 2 TERNAS c/vereda KM 47.395.571 65.597.855 112.993.426
+Coordinado: Supervisado:
+Fecha de Edición: Septiembre de 1993 Fecha de Actualización: Revisión Nº
+José Facundo Corso Lucas Waldemar Rodríguez
+noviembre de 2023 74
+Aprobado:
+ Marcelo Licata Caruso
+10 - LISTADO DE PRECIOS DE INSTALACIONES 
+Y MATERIALES DE DISTRIBUCION 10.1 - 5 de 35
+UNIDADES DE OBRA Ingenieria y Obras de Distribución
+Normas Generales
+Página
+SERVICIO DESCRIPCION MATERIAL ($) SYSE ($) TOTAL ($)
+RED SUBTERRÁNEA DE MEDIA TENSIÓN
+UN.
+MONTAJE CABLES SUBTERRÁNEO 33 kV. Incluye provisión y colocación de losetas (o caños en vereda, de ser necesario), cruces de calle (con caño de reserva), y 
+cualquier otra excavación requerida en el montaje. Excluye empalmes y terminales.
+UNIPOLARES AISLACIÓN XLPE 33 kV, con rotura y reparación de piso con hormigón
+L.1.5.03.01 MONTAJE CSMT 33 kV 3x185 mm2 AL/CU 1TERNA c/rotura y reparación de piso con hormigón KM 23.697.785 45.459.235 69.157.020
+L.1.5.03.02 MONTAJE CSMT 33 kV 3x185 mm2 AL/CU 2TERNAS c/rotura y reparación de piso con hormigón KM 47.395.571 72.233.448 119.629.019
+ACCESORIOS PARA CABLES SUBTERRÁNEOS 33 KV
+EMPALMES UNIPOLARES RECTOS 33 kV. Incluye zanjeo adicional al tendido y tapada.
+L.1.6.01.01 EJECUCIÓN EMPALME RECTO 33 kV SECC.185 mm2. Por conjunto de 3 unidades. No incluye reparación vereda. TER 36.941 222.990 259.931
+L.1.6.01.02 EJECUCIÓN EMPALME RECTO 33 kV SECC.185 mm2. Por conjunto de 3 unidades. Con reparación vereda. TER 36.941 336.216 373.157
+TERMINALES UNIPOLARES TIPO INTERIOR. 33 kV
+L.1.6.02.01 EJECUCIÓN TERMINAL INTERIOR UNIP. 33 kV SECC.185 mm2. Por conjunto de 3 unidades. TER 31.059 97.819 128.878
+TERMINALES UNIPOLARES TIPO EXTERIOR 33 kV
+L.1.6.03.01 EJECUCIÓN TERMINAL EXTERIOR UNIPOLAR 33 kV SECC.185 mm2. Por conjunto de 3 unidades. Incluye subida de cable a 
+poste y provisión y colocación de herrajes de protección y sujeción del cable. También incluye montaje de seccionadores, 
+descargadores y jabalina p.a.t.
+TER 981.508 513.089 1.494.597
+Coordinado: Supervisado:
+Fecha de Edición: Septiembre de 1993 Fecha de Actualización: Revisión Nº
+José Facundo Corso Lucas Waldemar Rodríguez
+noviembre de 2023 74
+Aprobado:
+ Marcelo Licata Caruso
+10 - LISTADO DE PRECIOS DE INSTALACIONES 
+Y MATERIALES DE DISTRIBUCION 10.1 - 6 de 35
+UNIDADES DE OBRA Ingenieria y Obras de Distribución
+Normas Generales
+Página
+SERVICIO DESCRIPCION MATERIAL ($) SYSE ($) TOTAL ($)
+RED SUBTERRÁNEA DE MEDIA TENSIÓN
+UN.
+TRITUBOS PARA FIBRA ÓPTICA
+MONTAJE DE TRITUBO PARA LA INSTALACIÓN DE FIBRA ÓPTICA, CONJUNTAMENTE CON CABLES DE M.T. El montaje del tritubo y sus accesorios se efectuará según con lo indicado en el IT-42030 "Instalación 
+de tritubos y arquetas".
+L.1.7.01.01 PROVISIÓN Y MONTAJE DE TRITUBO Y ACCESORIOS EN ZANJA ABIERTA para instalación de Fibra Óptica. El montaje se 
+efectuará de acuerdo con lo indicado en el IT 42030. Por Metro
+ML 5.272 5.272
+L.1.7.01.02 PROVISIÓN y MONTAJE DE ARQUETA de "PASO" ENTERRADA, de acuerdo con lo indicado en el IT 42030.
+Corresponde a una Arqueta de "PASO" (de uso convencional a lo largo de la traza de tritubo), con medidas estándar de 0,8 m x 
+0,6 m x 0,6 m de prof., instalada bajo nivel. 
+Incluye:
+- Construcción in situ con mampostería de ladrillo o prefabricada en H°A° y Tapa de H°A°.
+- Provisión y colocación de dispositivo "localizador" por radiofrecuencia el cual debe ser colocado fuera de la arqueta contra la 
+pared de esta, apoyado sobre el tritubo.
+Por arqueta de "PASO". Para otras dimensiones, solicitadas por la supervisión de Edenor, se abonará con un recargo 
+proporcional por volumen.
+C/U 168.410 168.410
+L.1.7.01.03 PROVISIÓN y MONTAJE DE ARQUETA de "PASO" A NIVEL VEREDA, de acuerdo con lo indicado en el IT 42030. 
+Corresponde a una arqueta de "PASO" (de uso convencional a lo largo de la traza de tritubo), con medidas estándar de 0,8 m x 
+0,6 m x 0,6 m de prof., instalada a nivel en veredas con solado de baldosas u hormigón. 
+Incluye:
+- Construcción in situ con mampostería de ladrillo o prefabricada en H°A°. 
+- Conjunto de tapas (módulo y cierre) de chapas de acero (semilla de melón, galvanizadas, con resistencia mecánica clase B125 
+y logotipo de Edenor) y marco (perfil L de acero SAE 1010, galvanizado, de espesor mínimo 6,3 mm, con pernos de anclaje 
+soldados).
+Por Arqueta de "PASO". Para otras dimensiones, solicitadas por la supervisión de Edenor, se abonará con un recargo 
+proporcional por volumen.
+C/U 242.313 242.313
+Coordinado: Supervisado:
+Fecha de Edición: Septiembre de 1993 Fecha de Actualización: Revisión Nº
+José Facundo Corso Lucas Waldemar Rodríguez
+noviembre de 2023 74
+Aprobado:
+ Marcelo Licata Caruso
+10 - LISTADO DE PRECIOS DE INSTALACIONES 
+Y MATERIALES DE DISTRIBUCION 10.1 - 7 de 35
+UNIDADES DE OBRA Ingenieria y Obras de Distribución
+Normas Generales
+Página
+SERVICIO DESCRIPCION MATERIAL ($) SYSE ($) TOTAL ($)
+RED SUBTERRÁNEA DE MEDIA TENSIÓN
+UN.
+TRITUBOS PARA FIBRA ÓPTICA
+MONTAJE DE TRITUBO PARA LA INSTALACIÓN DE FIBRA ÓPTICA, CONJUNTAMENTE CON CABLES DE M.T. El montaje del tritubo y sus accesorios se efectuará según con lo indicado en el IT-42030 "Instalación 
+de tritubos y arquetas".
+L.1.7.01.04 PROVISIÓN y MONTAJE DE ARQUETA "CERO" ENTERRADA, de acuerdo con lo indicado en el IT 42030.
+Corresponde a una Arqueta de "CERO" (previstas para salidas de SSEE u otro predio cabecera de la red de 
+Telecomunicaciones) con medidas estándar de 1,6 m x 0,6 m x 0,6 m de prof., instalada bajo nivel en veredas de tierra, sin 
+solado o excepcionalmente, en zonas con alto riesgo de hurto y/o vandalismo, según lo indique la supervisión de Edenor.
+Incluye:
+- Construcción in situ con mampostería de ladrillo o prefabricada en H°A° y Tapa de H°A°. 
+- Provisión y colocación de dispositivo "localizador" por radiofrecuencia el cual debe ser colocado fuera de la arqueta contra la 
+pared de esta, apoyado sobre el tritubo.
+Por arqueta "CERO".
+C/U 293.718 293.718
+L.1.7.01.05 PROVISIÓN y MONTAJE DE ARQUETA "CERO" A NIVEL VEREDA, de acuerdo con lo indicado en el IT 42030. 
+Corresponde a una arqueta de "CERO" (previstas para salidas de SSEE u otro predio cabecera de la red de 
+Telecomunicaciones) con medidas estándar de 1,6 m x 0,6 m x 0,6 m de prof., instalada a nivel en veredas con solado de 
+baldosas u hormigón. 
+Incluye:
+- Construcción in situ con mampostería de ladrillo o prefabricada en H°A°. 
+- Conjunto de tapas (módulo y cierre) de chapas (acero semilla de melón, galvanizadas, con resistencia mecánica clase B125 y 
+logotipo de Edenor) y marco (perfil L de acero SAE 1010, galvanizado, de espesor mínimo 6,3 mm, con pernos de anclaje 
+soldados).
+Por Arqueta "CERO".
+C/U 438.371 438.371
+TRABAJOS ADICIONALES EN CABLES SUBTERRÁNEOS DE MEDIA TENSIÓN
+COLOCACIÓN DE CABLES DE MT en zanja abierta, en caños existentes y otros, cuando no estén incluidos en el montaje, según Norma e indicaciones de la Inspección
+L.1.8.02.01 TENDIDO DE CABLE M.T. hasta 33 kV. Incluye transporte, carga, descarga y movimiento de bobinas. También incluye, en caso 
+de que lo disponga la Inspección, el retiro de cables y accesorios existentes sin cargo para Edenor. Por metro de terna colocada.
+ML 18.229 3.103 21.332
+Coordinado: Supervisado:
+Fecha de Edición: Septiembre de 1993 Fecha de Actualización: Revisión Nº
+José Facundo Corso Lucas Waldemar Rodríguez
+noviembre de 2023 74
+Aprobado:
+ Marcelo Licata Caruso
+10 - LISTADO DE PRECIOS DE INSTALACIONES 
+Y MATERIALES DE DISTRIBUCION 10.1 - 8 de 35
+UNIDADES DE OBRA Ingenieria y Obras de Distribución
+Normas Generales
+Página
+SERVICIO DESCRIPCION MATERIAL ($) SYSE ($) TOTAL ($)
+LÍNEA AÉREA DE MEDIA TENSIÓN
+UN.
+MONTAJE DE LÍNEAS AÉREAS 33 kV. Incluye seccionamiento descargadores, poda y despunte.
+DOBLE TERNA LINE POST - PESADA
+L.2.1.01.01 MONTAJE LAMT 33 kV 3x95/15 mm2 AL/AC, 2 TERNAS VANO 85m POSTE H°A° KM 14.675.739 15.822.745 30.498.484
+SIMPLE TERNA LINE POST - PESADA
+L.2.1.02.01 MONTAJE LAMT 33 kV 3x95/15 mm2 AL/AC, 1 TERNA VANO 85m POSTE H°A° KM 11.973.491 14.121.606 26.095.097
+SIMPLE TERNA LINE POST - LIVIANA 
+L.2.1.03.01 MONTAJE LAMT 33 kV 3x95/15 mm2 AL/AC, 1 TERNA VANO 70m POSTE MADERA KM 9.266.540 10.620.680 19.887.220
+L.2.1.03.02 MONTAJE LAMT 33 kV 3x50/8 mm2 AL/AC, 1 TERNA VANO 70m POSTE MADERA KM 8.985.802 10.620.680 19.606.482
+MONTAJE DE LÍNEAS AÉREAS 13,2 kV (>500m de tendido continuo). Incluye seccionamiento, descargadores, poda y despunte.
+SIMPLE TERNA LINE POST PROTEGIDA, H°A°
+L.2.2.02.01 MONTAJE LAMT 13,2 kV PROTEGIDA 3x95/15 mm2 AL/AC XLPE, 1 TERNA VANO 70m SOSTÉN H°A° KM 14.401.664 14.531.275 28.932.939
+L.2.2.02.02 MONTAJE LAMT 13,2 kV PROTEGIDA 3x50/8 mm2 AL/AC XLPE, 1 TERNA VANO 70m SOSTÉN H°A° KM 14.091.001 14.531.275 28.622.276
+SIMPLE TERNA LINE POST, H°A° CON SOSTÉN DE MADERA
+L.2.2.03.01 MONTAJE LAMT 13,2 kV 3x95/15 mm2 AL/AC, 1 TERNA VANO 70m SOSTÉN MADERA KM 9.042.027 10.612.076 19.654.103
+L.2.2.03.02 MONTAJE LAMT 13,2 kV 3x50/8 mm2 AL/AC, 1 TERNA VANO 70m SOSTEN MADERA KM 8.985.650 10.612.076 19.597.726
+SIMPLE TERNA LINE POST PROTEGIDA, H°A° CON SOSTÉN DE MADERA
+L.2.2.04.01 MONTAJE LAMT 13,2 kV 3x95/15 mm2 AL/AC, PROTEGIDA, 1 TERNA VANO 70m SOSTEN MADERA KM 11.514.937 10.612.076 22.127.013
+L.2.2.04.02 MONTAJE LAMT 13,2 kV 3x50/8 mm2 AL/AC, PROTEGIDA, 1 TERNA VANO 70m SOSTEN MADERA KM 11.208.282 10.612.076 21.820.358
+Coordinado: Supervisado:
+Fecha de Edición: Septiembre de 1993 Fecha de Actualización: Revisión Nº
+José Facundo Corso Lucas Waldemar Rodríguez
+noviembre de 2023 74
+Aprobado:
+ Marcelo Licata Caruso
+10 - LISTADO DE PRECIOS DE INSTALACIONES 
+Y MATERIALES DE DISTRIBUCION 10.1 - 9 de 35
+UNIDADES DE OBRA Ingenieria y Obras de Distribución
+Normas Generales
+Página
+SERVICIO DESCRIPCION MATERIAL ($) SYSE ($) TOTAL ($)
+LÍNEA AÉREA DE MEDIA TENSIÓN
+UN.
+MONTAJE DE LÍNEAS AÉREAS 13,2 kV (>500m de tendido continuo). Incluye seccionamiento, descargadores, poda y despunte.
+SIMPLE TERNA LINE POST, MADERA
+L.2.3.01.01 MONTAJE LAMT 13,2 kV 3x95/15 mm2 AL/AC, 1 TERNA VANO 85m, POSTE MADERA KM 7.196.537 9.864.846 17.061.383
+L.2.3.01.02 MONTAJE LAMT 13,2 kV 3x50/8 mm2 AL/AC, 1 TERNA VANO 85m, POSTE MADERA KM 7.008.876 9.864.846 16.873.722
+L.2.3.01.03 MONTAJE LAMT 13,2 kV 3x25/4 mm2 AL/AC, 1 TERNA VANO 85m, POSTE MADERA KM 6.817.007 9.864.846 16.681.853
+SIMPLE TERNA LINE POST PROTEGIDA, MADERA
+L.2.3.02.01 MONTAJE LAMT 13,2 kV 3x95/15 mm2 AL/AC XLPE, PROTEGIDA, 1 TERNA VANO 85m, POSTE MADERA KM 9.407.948 9.864.846 19.272.794
+L.2.3.02.02 MONTAJE LAMT 13,2 kV 3x50/8 mm2 AL/AC XLPE, PROTEGIDA, 1 TERNA VANO 85m, POSTE MADERA KM 8.988.757 9.864.846 18.853.603
+MONTAJE DE LÍNEAS AÉREAS 13,2 kV (>500m de tendido continuo). Incluye seccionamiento, descargadores, poda y despunte.
+DOBLE TERNA LINE POST, H°A°
+L.2.4.01.01 MONTAJE LAMT 13,2 kV 2x3x95/15 mm2 AL/AC, 2 TERNAS VANO 85m, POSTE H°A° KM 13.870.291 18.063.321 31.933.612
+DOBLE TERNA LINE POST PROTEGIDA, H°A°
+L.2.4.02.01 MONTAJE LAMT 13,2 kV 2x3x95/15 mm2 AL/AC XLPE, 2 TERNAS VANO 85m, POSTE H°A° KM 18.654.265 18.063.321 36.717.586
+MONTAJE DE LÍNEAS AÉREAS 13,2 kV Y 33 Kv COMPACTA. Incluye seccionamiento, descargadores, poda y despunte.
+SIMPLE TERNA COMPACTA PROTEGIDA H°A°
+L.2.5.01.01 MONTAJE LAMT 13,2 kV COMPACTA PROTEGIDA 3x95 mm2 AL XLPE, 1 TERNA VANO 70m, POSTE H°A° KM 9.606.655 13.449.783 23.056.438
+L.2.5.01.02 MONTAJE LAMT 33 kV COMPACTA PROTEGIDA 3x95 mm2 AL XLPE, 1 TERNA VANO 70m, POSTE DBLE H°A° KM 10.036.366 13.235.757 23.272.123
+L.2.5.01.03 MONTAJE LAMT 33 kV COMPACTA PROTEGIDA RURAL 3x95 mm2 AL XLPE, 1 TERNA VANO 90m, KM 8.791.412 12.885.542 21.676.954
+DOBLE TERNA COMPACTA PROTEGIDA, H°A°
+L.2.5.02.01 MONTAJE LAMT 13,2 kV COMPACTA PROTEGIDA 3x95 mm2 AL XLPE, 2 TERNAS VANO 50m, POSTE H°A° KM 19.597.360 22.240.687 41.838.047
+Coordinado: Supervisado:
+Fecha de Edición: Septiembre de 1993 Fecha de Actualización: Revisión Nº
+José Facundo Corso Lucas Waldemar Rodríguez
+noviembre de 2023 74
+Aprobado:
+ Marcelo Licata Caruso
+10 - LISTADO DE PRECIOS DE INSTALACIONES 
+Y MATERIALES DE DISTRIBUCION 10.1 - 10 de 35
+UNIDADES DE OBRA Ingenieria y Obras de Distribución
+Normas Generales
+Página
+SERVICIO DESCRIPCION MATERIAL ($) SYSE ($) TOTAL ($)
+LÍNEA AÉREA DE MEDIA TENSIÓN
+UN.
+MONTAJE DE LÍNEAS AÉREAS 13,2 kV Y 33 Kv COMPACTA. Incluye seccionamiento, descargadores, poda y despunte.
+MONTAJE DE LÍNEA COMPACTA PROTEGIDA, EN POSTE H°A° EXISTENTE (Incluye sostenes intermedios de H°)
+L.2.5.03.02 MONTAJE LAMT 13,2 kV COMPACTA PROTEGIDA 3x95/15 mm2 AL XLPE, 1 TERNA EN POSTE H°A° EXISTENTE (VANO 
+50m)
+KM 4.378.541 5.481.587 9.860.128
+L.2.5.03.03 MONTAJE LAMT 13,2 kV COMPACTA PROTEGIDA 3x95/15 mm2 AL XLPE, 1 TERNA EN POSTE H°A° EXISTENTE (VANO 
+70m)
+KM 3.900.869 4.896.813 8.797.682
+TRABAJOS ADICIONALES EN LÍNEA AÉREA DE MEDIA TENSIÓN
+MONTAJE DE EQUIPOS DE PROTECCIÓN Y MANIOBRA
+L.2.6.01.01 MONTAJE RECONECTADOR COMPLETO. Incluye según corresponda la instalación del transformador de alimentación, 
+comando, aparatos de protección y maniobra y p.a.t. adicional.
+C/U 2.833.871 573.614 3.407.485
+L.2.6.01.02 MONTAJE SECCIONALIZADOR TRIPOLAR COMPLETO. Incl.comando, descargadores y p.a.t. adicional. C/U 1.981.686 598.305 2.579.991
+L.2.6.01.03 MONTAJE SECCIONADOR BAJO CARGA COMPLETO. Incluye comando, descargadores y p.a.t. adicional. C/U 1.883.754 598.305 2.482.059
+L.2.6.01.05 MONTAJE SECCIONADOR A CUCHILLA/AUTODESCONECTADOR/SECCIONALIZADOR UNIPOLAR, en poste terminal o 
+amarre existente. Incluye colocación de crucetas, herrajes y aisladores soporte y ejecución del conexionado. Por conjunto de tres 
+unidades.
+TER 655.783 236.331 892.114
+TENDIDO DE CONDUCTORES DESNUDOS
+L.2.6.02.01 TENDIDO CONDUCTOR LAMT DESNUDO HASTA 33kV - 3x 95/15 mm2 Al/Ac - 1 TERNA. KM 807.374 2.552.340 3.359.714
+L.2.6.02.02 TENDIDO CONDUCTOR LAMT DESNUDO HASTA 33kV - 3x 50/8 mm2 Al/Ac - 1 TERNA. KM 621.059 2.552.340 3.173.399
+L.2.6.02.03 TENDIDO CONDUCTOR LAMT DESNUDO HASTA 33kV - 3x 25/4 mm2 Al/Ac - 1 TERNA. KM 429.190 2.552.340 2.981.530
+TENDIDO DE CONDUCTORES PROTEGIDOS
+L.2.6.03.01 TENDIDO CONDUCTOR PROTEGIDO LAMT 13,2 kV - 3x 95/15 mm2 Al/Ac - 1 TERNA. KM 3.228.276 2.552.340 5.780.616
+L.2.6.03.02 TENDIDO CONDUCTOR PROTEGIDO LAMT 13,2 kV - 3x 50/8 mm2 Al/Ac - 1 TERNA. KM 2.807.196 2.552.340 5.359.536
+Coordinado: Supervisado:
+Fecha de Edición: Septiembre de 1993 Fecha de Actualización: Revisión Nº
+José Facundo Corso Lucas Waldemar Rodríguez
+noviembre de 2023 74
+Aprobado:
+ Marcelo Licata Caruso
+10 - LISTADO DE PRECIOS DE INSTALACIONES 
+Y MATERIALES DE DISTRIBUCION 10.1 - 11 de 35
+UNIDADES DE OBRA Ingenieria y Obras de Distribución
+Normas Generales
+Página
+SERVICIO DESCRIPCION MATERIAL ($) SYSE ($) TOTAL ($)
+LÍNEA AÉREA DE MEDIA TENSIÓN
+UN.
+TRABAJOS ADICIONALES EN LÍNEA AÉREA DE MEDIA TENSIÓN
+RETIROS
+L.2.6.04.01 RETIRO CONDUCTOR LAMT 13,2 kV / 33 kV simple terna. Por Km de terna de conductores desnudos o protegidos. KM 977.340 977.340
+L.2.6.04.02 RETIRO POSTE SIMPLE DE MADERA de cualquier altura. C/U 24.120 24.120
+L.2.6.04.03 RETIRO POSTE DOBLE Ó POSTE C/ CONTRAPOSTE DE MADERA de cualquier altura. Por ambos postes. CTO 48.241 48.241
+L.2.6.04.04 RETIRO COMPLETO DE POSTES SIMPLE DE H°A°, cortándolo a 0,10 metros por debajo del nivel de suelo. Por poste. C/U 114.760 114.760
+MONTAJES DE POSTES DE H°A°. Incluye colocación de herrajes, jabalina, aisladores y Rep. Vereda. No incluye fundación que se abona por ítem separado.
+L.2.6.05.01 INSTALACIÓN COMPLETA POSTE SIMPLE H°, TERMINAL SIMPLE, SOSTEN O DESVÍO con o sin lozanga p/simple o doble 
+terna, en Línea Vertical o Compacta. Según Norma de Montaje actualizada. Por poste.
+C/U 778.018 203.482 981.500
+L.2.6.05.02 INSTALACIÓN COMPLETA 2 POSTES SIMPLES H° PARA TERMINAL MÚLTIPLE. Incluye la colocación de herrajes y 
+aisladores/espaciadores de Línea Vertical o Compacta. Por terminal múltiple (ambos postes).
+CTO 1.390.214 419.639 1.809.853
+L.2.6.05.03 FUNDACIÓN DE H° SIMPLE para postación en terreno normal. Incluye provisión de materiales por contratista. Por metro cúbico. M3 240.779 240.779
+L.2.6.05.04 INSTALACIÓN COMPLETA POSTE DOBLE H°, PARA SIMPLE O DOBLE TERNA, TERMINAL O AMARRE (con o sin desvío) EN 
+LINEA VERTICAL. Por poste doble.
+CTO 1.495.898 941.891 2.437.789
+MONTAJE DE POSTES DE MADERA DE LAMT. Incluye el refuerzo de la base con suelo-cemento
+L.2.6.06.01 INSTALACION COMPLETA DE POSTE SIMPLE DE MADERA, sostén, con o sin lozanga, en Línea Vertical o Compacta. Por 
+poste.
+C/U 152.699 112.226 264.925
+Coordinado: Supervisado:
+Fecha de Edición: Septiembre de 1993 Fecha de Actualización: Revisión Nº
+José Facundo Corso Lucas Waldemar Rodríguez
+noviembre de 2023 74
+Aprobado:
+ Marcelo Licata Caruso
+10 - LISTADO DE PRECIOS DE INSTALACIONES 
+Y MATERIALES DE DISTRIBUCION 10.1 - 12 de 35
+UNIDADES DE OBRA Ingenieria y Obras de Distribución
+Normas Generales
+Página
+SERVICIO DESCRIPCION MATERIAL ($) SYSE ($) TOTAL ($)
+LÍNEA AÉREA DE MEDIA TENSIÓN
+UN.
+TRABAJOS DE MEJORA EN LÍNEA AÉREA DE MEDIA TENSIÓN
+CAMBIO DE CONDUCTORES DE LAMT
+L.2.7.01.01 CAMBIO DE CONDUCTOR DESNUDO POR DESNUDO Al/Ac - 50/8mm2 por 95/15mm2. Incluye cambio de elementos de 
+retención y sujeción. Por Km de terna.
+KM 1.115.988 3.529.680 4.645.668
+L.2.7.01.02 CAMBIO DE CONDUCTOR DESNUDO POR DESNUDO Al/Ac - 95/15mm2 por 95/15mm2. Por Km de terna. KM 807.374 3.529.680 4.337.054
+L.2.7.01.03 CAMBIO DE CONDUCTOR DESNUDO POR PROTEGIDO Al/Ac XLPE - 95/15mm2 por 95/15mm2. Incluye cambio de elementos 
+de retención y sujeción. Por Km de terna.
+KM 3.513.670 3.529.680 7.043.350
+L.2.7.01.04 CAMBIO DE CONDUCTOR DESNUDO POR PROTEGIDO Al/Ac XLPE - 50/8mm2 por 50/8mm2. Incluye cambio de elementos 
+de retención y sujeción. Por Km de terna.
+KM 3.139.397 3.529.680 6.669.077
+TENSADO DE CONDUCTORES DE LAMT
+L.2.7.02.01 TENSADO DE CONDUCTOR DESNUDO / PROTEGIDO CUALQUIER SECCION, con su correspondiente flechado. (No 
+corresponde su certificación cuando la tarea esté asociada a un cambio o instalación de conductores). De una a 3 fases.
+KM 382.420 382.420
+APLOMADO DE POSTES DE MADERA EN LÍNEAS DE MT/BT. Incl.ejec.y tapado del pozo; Rep. Vereda; adaptación instalaciones. Se excluyen poste en plataforma o con los siguientes elementos de maniobra: 
+reconectadores, seccionalizadores y seccionadores bajo carga.
+L.2.7.03.01 APLOMADO DE POSTE SIMPLE DE MADERA (con o sin refuerzo). Incluye el desatado y atado de la línea, y de ser necesario 
+retensado y flechado. Por poste.
+C/U 23.102 23.102
+L.2.7.03.02 APLOMADO DE POSTE DOBLE (c/s refuerzo), POSTE y CONTRAPOSTE (ambos) o POSTE C/ SUBIDA CAS DE MADERA. 
+Incluye el desatado y atado de la línea, retensado y flechado. Por ambos postes o poste con subida CAS.
+C/U 36.360 36.360
+RETIRO DE ELEMENTOS CONSTITUTIVOS DE LAMT
+L.2.7.04.01 RETIRO DE CONJUNTO DE SECCIONADORES PORTAFUSIBLES AUTODESCONECTADOR O CUCHILLA. Incluye 
+conexionado. Por terna.
+TER 19.194 19.194
+Coordinado: Supervisado:
+Fecha de Edición: Septiembre de 1993 Fecha de Actualización: Revisión Nº
+José Facundo Corso Lucas Waldemar Rodríguez
+noviembre de 2023 74
+Aprobado:
+ Marcelo Licata Caruso
+10 - LISTADO DE PRECIOS DE INSTALACIONES 
+Y MATERIALES DE DISTRIBUCION 10.1 - 13 de 35
+UNIDADES DE OBRA Ingenieria y Obras de Distribución
+Normas Generales
+Página
+SERVICIO DESCRIPCION MATERIAL ($) SYSE ($) TOTAL ($)
+LÍNEA AÉREA DE MEDIA TENSIÓN
+UN.
+TRABAJOS EN LÍNEA AÉREA DE MEDIA TENSIÓN EN EL DELTA
+MONTAJE DE ESTRUCTURAS EN DELTA PARA LÍNEA AÉREA TRIANGULAR 13,2 Kv
+L.2.8.01.01 MONTAJE DE ESTRUCTURAS DE MADERA DE 25 METROS de altura para tendido de Líneas Aéreas de Media o Baja Tensión 
+en cruce de ríos, según NTI4-11. Incluye provisión de varillas roscadas, chapas cuadradas, tuercas, arandelas, tirantes y zapatas 
+de quebracho y tratamiento de postes y durmientes por Contratista. Incluye colocación de crucetas y aisladores o aisladores 
+soporte Line-Post y 6 riendas dobles. No incluye tendido de conductores que se abonan por ítem separado. Por ambas 
+estructuras.
+CTO 1.392.724 2.229.541 3.622.265
+TRABAJOS ADICIONALES EN LÍNEA AÉREA DE MEDIA TENSIÓN EN EL DELTA
+L.2.8.02.01 EJECUCIÓN DE PICADA DE 15 METROS DE ANCHO para tendidos de LAMT, en todo el área del Delta. Comprende la tala de 
+árboles (cualquier número y grosor) con aserrado de troncos en tramos de 2 metros y su apilado, y el corte de malezas con su 
+emparvado a orillas de la picada . Por kilómetro lineal de picada.
+KM 1.357.445 1.357.445
+L.2.8.02.02 EJECUCIÓN DE PICADA DE 3 METROS DE ANCHO para tendidos de línea protegida de MT y/o preensamblada de BT, en todo 
+el área del Delta. Comprende la tala de árboles (cualquier número y grosor) con aserrado de troncos en tramos de 2 metros y su 
+apilado, y el corte de maleza con su emparvado a orillas de la picada. Por kilómetro lineal de picada.
+KM 597.166 597.166
+Coordinado: Supervisado:
+Fecha de Edición: Septiembre de 1993 Fecha de Actualización: Revisión Nº
+José Facundo Corso Lucas Waldemar Rodríguez
+noviembre de 2023 74
+Aprobado:
+ Marcelo Licata Caruso
+10 - LISTADO DE PRECIOS DE INSTALACIONES 
+Y MATERIALES DE DISTRIBUCION 10.1 - 14 de 35
+UNIDADES DE OBRA Ingenieria y Obras de Distribución
+Normas Generales
+Página
+SERVICIO DESCRIPCION MATERIAL ($) SYSE ($) TOTAL ($)
+CENTROS DE TRANSFORMACIÓN A NIVEL Y POZO MT/BT
+UN.
+CENTROS DE TRANSFORMACIÓN, SUMINISTRO Y MEDICIÓN TIPO CÁMARA
+INSTALACION ELECTROMECÁNICA C.T. 33/0,4 kV A NIVEL O EN INMUEBLE. Incluye el montaje del transformador (excluye su costo), electrodo de P.A.T.., provisión cerramiento del transformador, pupitre y bandeja 
+portacable. Excluye terminales de Red MT/BT
+L.3.1.01.01 INSTALACIÓN ELECTROMECÁNICA CENTRO DE TRANSFORMACION 33/0,4 kV HASTA 500 kVA con tablero de B.T. de 4 
+campos conectado al transformador con cables AL-XLPE.
+C/U 7.919.340 2.758.775 10.678.115
+INSTALACION ELECTROMECÁNICA C.T. 13,2/0,4 kV A NIVEL O EN INMUEBLE. Incluye el montaje del transformador (excluye su costo), electrodo de P.A.T.., provisión cerramiento del transformador, pupitre y 
+bandeja portacable. Excluye terminales de Red MT/BT
+L.3.1.02.01 INSTALACIÓN ELECTROMECÁNICA CENTRO DE TRANSFORMACION 13,2/0,4 kV HASTA 500 kVA con tablero de B.T. de 4 
+campos conectado al transformador con cables AL-XLPE.
+C/U 6.141.781 2.480.978 8.622.759
+L.3.1.02.03 INSTALACIÓN ELECTROMECÁNICA CENTRO DE TRANSFORMACION 13,2/0,4 kV HASTA 1000 kVA con tablero de B.T. de 8 
+campos conectado al transformador con cables AL-XLPE.
+C/U 7.627.968 2.480.978 10.108.946
+L.3.1.02.04 INSTALACIÓN ELECTROMECÁNICA ADICIONAL EN CENTRO DE TRANSFORMACION 13,2/0,4 kV DE 1 TRAFO HASTA 1000 
+Kva, 1 celda tipo B y 1 tablero de B.T. de 8 campos, conectado al transformador con cables AL-XLPE.
+C/U 4.144.283 1.812.091 5.956.374
+INSTALACION ELECTROMECÁNICA CT+SyM 13,2/0,4 kV A NIVEL O EN INMUEBLE. Incluye el montaje del transformador (excluye su costo), electrodo de P.A.T.., provisión cerramiento del transformador, pupitre y 
+bandeja portacable. Excluye terminales de Red MT/BT
+L.3.1.03.01 INSTALACIÓN ELECTROMECÁNICA CENTRO DE TRANSFORMACION 13,2/0,4 kV Y SUMINISTRO Y MEDICION HASTA 
+1250 kVA MIXTA) con tablero de B.T. de 4 campos conectado al transformador con cables AL-XLPE. (Celdas: 1Am + 2A + 2B + 
+1C ).
+C/U 9.811.755 3.118.927 12.930.682
+L.3.1.03.02 INSTALACIÓN ELECTROMECÁNICA CENTRO DE TRANSFORMACION 13,2/0,4 kV Y SUMINISTRO Y MEDICION MAYOR DE 
+1250 kVA (MIXTA) con tablero de B.T. de 4 campos conectado al transformador con cables AL-XLPE. Incluye celda interruptor 
+en SF6. (Celdas: 1Am + 2A + 1B + 1C + 1E).
+C/U 10.623.964 3.196.504 13.820.468
+Coordinado: Supervisado:
+Fecha de Edición: Septiembre de 1993 Fecha de Actualización: Revisión Nº
+José Facundo Corso Lucas Waldemar Rodríguez
+noviembre de 2023 74
+Aprobado:
+ Marcelo Licata Caruso
+10 - LISTADO DE PRECIOS DE INSTALACIONES 
+Y MATERIALES DE DISTRIBUCION 10.1 - 15 de 35
+UNIDADES DE OBRA Ingenieria y Obras de Distribución
+Normas Generales
+Página
+SERVICIO DESCRIPCION MATERIAL ($) SYSE ($) TOTAL ($)
+CENTROS DE TRANSFORMACIÓN A NIVEL Y POZO MT/BT
+UN.
+CENTROS DE TRANSFORMACIÓN, SUMINISTRO Y MEDICIÓN TIPO CÁMARA
+INSTALACION ELECTROMECÁNICA SUMINISTRO Y MEDICION A NIVEL O EN INMUEBLE. Excluye terminales de Red MT/BT
+L.3.1.04.01 INSTALACIÓN ELECTROMECÁNICA CENTRO DE SUMINISTRO Y MEDICIÓN EN 13,2 KV HASTA 1250 KVA con seccionador 
+bajo carga (Celdas: 1Am + 2A + 1Bd + 1C ).
+C/U 6.503.763 1.752.298 8.256.061
+L.3.1.04.02 INSTALACIÓN ELECTROMECÁNICA CENTRO DE SUMINISTRO Y MEDICIÓN EN 13,2 KV MAYOR 1250 KVA con interruptor 
+en SF6 (Celdas: 1Am + 2A + 1C + 1Ed).
+C/U 7.315.972 1.752.298 9.068.270
+L.3.1.04.03 INSTALACIÓN ELECTROMECÁNICA CENTRO DE SUMINISTRO Y MEDICIÓN EN 33 KV HASTA 3000 KVA. (Celdas: 2A + 
+1Am + 1 B o E + 1C )
+C/U 9.749.821 2.005.936 11.755.757
+CENTROS DE TRANSFORMACIÓN TIPO POZO
+INSTALACION ELECTROMECÁNICA CENTRO DE TRANSFORMACIÓN TIPO POZO. Incluye el montaje del transformador (excluye su costo) y electrodo de P.A.T. No incluye los terminales de Red MT y BT
+L.3.2.01.01 INSTAL. ELECTROMECÁNICA CENTRO DE TRANSFORMACIÓN TIPO POZO CON SECCIONADOR (VISIBLE) DE 3 VÍAS. 
+Incluye instalación del tablero de BT (buzón) y su conexión al transformador.
+C/U 4.344.533 1.591.345 5.935.878
+L.3.2.01.02 INSTAL. ELECTROMECÁNICA CENTRO DE TRANSFORMACIÓN TIPO POZO CON SECCIONADOR (VISIBLE) DE 4 VÍAS. 
+Incluye instalación del tablero de BT (buzón) y su conexión al transformador.
+C/U 5.016.424 1.591.345 6.607.769
+L.3.2.01.03 MONTAJE TABLERO DE BT (BUZÓN ADICIONAL) Incluye la conexión al transformador. C/U 915.764 241.978 1.157.742
+INSTALACION ELECTROMECÁNICA CENTRO DE MANIOBRA TIPO POZO. Incluye la instalación del electrodo de P.A.T.. No incluye los terminales de Red MT
+L.3.2.02.01 INSTAL. ELECTROMECÁNICA SECCIONADOR (VISIBLE) DE 3 VÍAS EN POZO C/U 3.424.696 824.477 4.249.173
+L.3.2.02.02 INSTAL. ELECTROMECÁNICA SECCIONADOR (VISIBLE) DE 4 VÍAS EN POZO C/U 4.096.105 824.477 4.920.582
+INSTALACION ELECTROMECÁNICA TRANSFORMADOR EN POZO. Incluye el montaje del transformador, excluye su costo.
+L.3.2.03.01 INSTAL. ELECTROMECÁNICA TRANSFORMADOR EN POZO. Incluye electrodo de p.a.t. y conectores de SBC (completos). 
+Excluye la salida de BT
+C/U 252.607 804.970 1.057.577
+TERMINALES ENCHUFABLES DE RED MT 13,2 kV
+L.3.2.04.01 EJECUCIÓN DE TERMINALES ENCHUFABLES DE RED MT POR TERNA. TER 74.373 111.482 185.855
+Coordinado: Supervisado:
+Fecha de Edición: Septiembre de 1993 Fecha de Actualización: Revisión Nº
+José Facundo Corso Lucas Waldemar Rodríguez
+noviembre de 2023 74
+Aprobado:
+ Marcelo Licata Caruso
+10 - LISTADO DE PRECIOS DE INSTALACIONES 
+Y MATERIALES DE DISTRIBUCION 10.1 - 16 de 35
+UNIDADES DE OBRA Ingenieria y Obras de Distribución
+Normas Generales
+Página
+SERVICIO DESCRIPCION MATERIAL ($) SYSE ($) TOTAL ($)
+CENTROS DE TRANSFORMACIÓN A NIVEL Y POZO MT/BT
+UN.
+CENTROS PREARMADOS DE TRANSFORMACIÓN
+INSTALACION ELECTROMECÁNICA TRANSFORMADOR INTEGRADO. Incluye el montaje del transformador, excluye su costo.
+L.3.3.01.01 INSTAL. ELECTROMECÁNICA TRANSFORMADOR INTEGRADO. Excluye colocación de cables unipolares, dada su gran 
+variabilidad.
+C/U 140.639 226.076 366.715
+CONSTRUCCIONES CIVILES
+CONSTRUCCIONES CIVILES A NIVEL
+L.3.4.01.01 CONSTRUCCIÓN CIVIL PARA CENTRO DE TRANSFORMACIÓN A NIVEL HASTA 1000 KVA C/U 11.293.153 11.293.153
+L.3.4.01.02 CONSTRUCCIÓN CIVIL PARA CENTRO DE TRANSFORMACIÓN Y SUMINISTRO Y MEDICIÓN A NIVEL (MIXTA) C/U 12.705.183 12.705.183
+L.3.4.01.03 CONSTRUCCIÓN CIVIL PARA CENTRO DE SUMINISTRO Y MEDICIÓN A NIVEL C/U 9.054.106 9.054.106
+CONSTRUCCIONES CIVILES EN POZO
+L.3.4.02.01 CONSTRUCCIÓN CIVIL PARA CENTRO TRANSFORMACIÓN TIPO POZO CON SECCIONADOR DE 3 ó 4 VÍAS C/U 13.223.362 13.223.362
+L.3.4.02.02 CONSTRUCCIÓN CIVIL PARA SECCIONADOR EN POZO DE 3 ó 4 VÍAS C/U 4.704.634 4.704.634
+L.3.4.02.03 CONSTRUCCIÓN CIVIL PARA TRANSFORMADOR EN POZO C/U 8.518.728 8.518.728
+CONSTRUCCIONES CIVILES DE BASES PARA CENTROS PREARMADOS
+L.3.4.03.01 CONSTRUCCIÓN CIVIL PARA TRANSFORMADOR INTEGRADO (base) C/U 822.637 822.637
+Coordinado: Supervisado:
+Fecha de Edición: Septiembre de 1993 Fecha de Actualización: Revisión Nº
+José Facundo Corso Lucas Waldemar Rodríguez
+noviembre de 2023 74
+Aprobado:
+ Marcelo Licata Caruso
+10 - LISTADO DE PRECIOS DE INSTALACIONES 
+Y MATERIALES DE DISTRIBUCION 10.1 - 17 de 35
+UNIDADES DE OBRA Ingenieria y Obras de Distribución
+Normas Generales
+Página
+SERVICIO DESCRIPCION MATERIAL ($) SYSE ($) TOTAL ($)
+CENTROS DE TRANSFORMACIÓN A NIVEL Y POZO MT/BT
+UN.
+TRABAJOS ADICIONALES EN CENTROS DE TRANSFORMACIÓN TIPO CÁMARA Y TIPO POZO
+TRABAJOS ADICIONALES EN CÁMARAS DE TRANSFORMACIÓN
+L.3.5.03.01 MONTAJE DE CELDA TIPO A, Am, B, C ADICIONAL (posterior al montaje del centro) (Excluidos Materiales) C/U 238.645 238.645
+L.3.5.03.02 MONTAJE DE CELDA TIPO "E" ADICIONAL (posterior al montaje del centro) C/U 1.671.896 307.763 1.979.659
+L.3.5.03.03 REEMPLAZO DE TRANSFORMADOR EN CÁMARA por aumento de potencia. Incluye colocación de cables unipolares 
+adicionales de comunicación en BT, entre el transformador y la llave seccionadora del tablero, su fijación, ejecución de los 
+terminales y conexionado Trafo-tablero BT completo. (Excluidos Materiales)
+C/U 88.508 715.917 804.425
+L.3.5.03.04 REEMPLAZO DE TRANSFORMADOR EN POZO por aumento de potencia. Incluye su desconexionado y conexionado. De ser 
+necesario la instalación adicional de un tablero BT(buzón) utilizar el ítem L.3.2.01.03. (Excluidos Materiales)
+C/U 417.452 417.452
+L.3.5.03.06 RETIRO DE CELDAS DE VIEJA TECNOLOGIA O MODULAR COMPACTA. VALIDO P/ DESPLAZAMIENTO DE CELDA CON 
+RECONEXION AL TABLERO DE M.T. (No incl.constr.murete)
+C/U 59.401 59.401
+L.3.5.03.07 MONTAJE DE CELDA TIPO A, Am, B, C ADICIONAL (en el momento del montaje del centro) (Excluidos Materiales) C/U 173.609 173.609
+L.3.5.03.08 MONTAJE DE CELDA TIPO "E" ADICIONAL (en el momento del montaje del centro) C/U 1.671.896 251.185 1.923.081
+L.3.5.03.09 MONTAJE ELECTROMECANICO DE TABLERO DE B.T. DE 4 (cuatro) campos de salida, con seccionador tripolar posterior al 
+montaje del C.T. Incluye cables, terminales y conexionado trafo-tablero. Por tablero.
+C/U 830.211 209.037 1.039.248
+L.3.5.03.10 MONTAJE ELECTROMECANICO DE TABLERO DE B.T. DE 8 o 4+2 campos de salida, c/secc.tripolar posterior al montaje del 
+C.T.Incl.cables, terminales y su conexionado. Por tablero.
+C/U 2.392.935 209.037 2.601.972
+L.3.5.03.12 COLOCACION O CAMBIO DE DETECTORES DE CORTO CIRCUITO EN CAMARA. Por conjunto. CTO 166.060 26.773 192.833
+L.3.5.03.13 RETIRO DE TABLERO DE BT hasta 8 o 4+2 campos en centros de transformación a nivel. C/U 140.496 140.496
+L.3.5.03.14 RETIRO DE TRANSFORMADOR en Centros de Transformación tipo CAMARA o tipo POZO. C/U 286.913 286.913
+Coordinado: Supervisado:
+Fecha de Edición: Septiembre de 1993 Fecha de Actualización: Revisión Nº
+José Facundo Corso Lucas Waldemar Rodríguez
+noviembre de 2023 74
+Aprobado:
+ Marcelo Licata Caruso
+10 - LISTADO DE PRECIOS DE INSTALACIONES 
+Y MATERIALES DE DISTRIBUCION 10.1 - 18 de 35
+UNIDADES DE OBRA Ingenieria y Obras de Distribución
+Normas Generales
+Página
+SERVICIO DESCRIPCION MATERIAL ($) SYSE ($) TOTAL ($)
+CENTROS DE TRANSFORMACIÓN AÉREOS MT/BT
+UN.
+CENTRO DE TRANSFORMACIÓN AÉREOS 33/0,4 kV TIPO PLATAFORMA
+INSTALACION PLATAFORMA TRIFÁSICA COMPLETA. Incluye el montaje del transformador, excluye su costo.
+L.4.1.01.01 PLATAFORMA MONOPOSTE 33 kV de H°A° VERTICAL (2 SALIDAS DE BT). Incluye la provisión del hormigón para 
+fundaciones.
+C/U 1.208.051 1.262.830 2.470.881
+L.4.1.01.02 PLATAFORMA BIPOSTE 33kV DE H°A° VERTICAL (4 SALIDAS DE BT). Incluye la provisión del hormigón para fundaciones. C/U 2.006.471 2.742.393 4.748.864
+INSTALACION PLATAFORMA TRIFÁSICA, EN POSTE EXISTENTE. Incluye el montaje del transformador, excluye su costo.
+L.4.1.02.01 PLATAFORMA MONOPOSTE 33kV DE H°A° VERTICAL (2 SALIDAS DE BT). C/U 772.379 836.727 1.609.106
+L.4.1.02.02 PLATAFORMA BIPOSTE 33 kV DE H°A° VERTICAL (4 SALIDAS DE BT).Incluye la provisión del hormigón para fundaciones. C/U 1.574.798 2.500.667 4.075.465
+CENTRO DE TRANSFORMACIÓN AÉREOS 13,2/0,4 kV TIPO PLATAFORMA
+INSTALACION PLATAFORMA TRIFÁSICA COMPLETA. Incluye el montaje del transformador, excluye su costo. También incluye electrodo (biposte) o jabalina/s (monoposte) de puesta a tierra y bases portafusibles de 
+BT.
+L.4.2.01.03 PLATAFORMA MONOPOSTE 13,2 kV DE MADERA HASTA 63 kVA (1 SALIDA DE BT) e instalación p.a.t. del neutro BT en 
+poste contiguo. Incluye provisión de durmientes.
+C/U 674.574 1.132.459 1.807.033
+L.4.2.01.04 PLATAFORMA MONOPOSTE 13,2 kV DE H°A° VERTICAL HASTA 250 Kva (2 SALIDAS DE BT) e instalación p.a.t. del neutro 
+BT en poste contiguo. Incluye la provisión del hormigón para fundaciones.
+C/U 1.306.087 1.264.203 2.570.290
+L.4.2.01.05 PLATAFORMA BIPOSTE 13,2 kV DE H°A° VERTICAL (4 SALIDAS DE BT) - HASTA 500 kVA. Incluye la provisión del hormigón 
+para fundaciones.
+C/U 1.963.223 2.742.393 4.705.616
+L.4.2.01.10 Mont.plataforma Bajo Cable biposte H°A° (4 SALIDAS DE BT), Incluye terminales exteriores y cables de subida de MT. Incluye 
+también la provisión del hormigón para fundaciones.
+C/U 2.516.792 3.384.983 5.901.775
+Coordinado: Supervisado:
+Fecha de Edición: Septiembre de 1993 Fecha de Actualización: Revisión Nº
+José Facundo Corso Lucas Waldemar Rodríguez
+noviembre de 2023 74
+Aprobado:
+ Marcelo Licata Caruso
+10 - LISTADO DE PRECIOS DE INSTALACIONES 
+Y MATERIALES DE DISTRIBUCION 10.1 - 19 de 35
+UNIDADES DE OBRA Ingenieria y Obras de Distribución
+Normas Generales
+Página
+SERVICIO DESCRIPCION MATERIAL ($) SYSE ($) TOTAL ($)
+CENTROS DE TRANSFORMACIÓN AÉREOS MT/BT
+UN.
+CENTRO DE TRANSFORMACIÓN AÉREOS 13,2/0,4 kV TIPO PLATAFORMA
+INSTALACION PLATAFORMA TRIFÁSICA, EN POSTE EXISTENTE. Incluye el montaje del transformador, excluye su costo. También incluye electrodo (biposte) o jabalina/s (monoposte) de puesta a tierra y bases 
+portafusibles de BT.
+L.4.2.02.03 PLATAFORMA MONOPOSTE 13,2 kV DE MADERA h/ 63 kVA (1 SALIDA DE BT) EN POSTE EXISTENTE e instalación p.a.t. del 
+neutro BT en poste contiguo.
+C/U 523.232 678.156 1.201.388
+L.4.2.02.04 PLATAFORMA MONOPOSTE 13,2 kV DE H°A° VERTICAL HASTA 250 kVA (2 SALIDAS DE BT) EN POSTE EXISTENTE e 
+instalación P.A.T. del neutro BT en poste contiguo.
+C/U 1.000.714 838.099 1.838.813
+L.4.2.02.05 PLATAFORMA BIPOSTE 13,2 kV DE H°A° VERTICAL h/ 500 kVA (4 SALIDAS DE BT) EN POSTE EXISTENTE. Incluye la 
+provisión del hormigón para fundaciones.
+C/U 1.635.457 2.500.667 4.136.124
+INSTALACION PLATAFORMA MONOFÁSICA (AISLACION PLENA) EN POSTE EXISTENTE. Incluye el montaje del transformador, excluye su costo. También incluye jabalina/s de puesta a tierra y bases portafusibles 
+de BT.
+L.4.2.03.02 PLATAFORMA MONOPOSTE 13,2 kV DE MADERA MONOFÁSICA (1 SALIDA DE BT) EN POSTE EXISTENTE e instalación 
+P.A.T. del neutro BT en poste contiguo.
+C/U 507.351 580.620 1.087.971
+CONEXIÓN DE TRAFO EN POZO A LÍNEA AÉREA de MT y BT. Incl. Instal. poste de LAMT, Mont. elem. Protección y Maniobra, Zanjeo, Tendido subida cable/conductores, Prov.y Coloc.protecciones mecánicas, 
+Conexión (BT) al trafo y Rep. Vereda.
+L.4.2.04.01 CONEXIÓN DE TRANSFORMADOR EN POZO A LÍNEA AÉREA de MT y BT. Incluye la instalación del poste de LAMT, el 
+montaje de los elementos de protección y maniobra (MT y BT), el zanjeo, tendido y subida de cables y conductores al poste, la 
+provisión y colocación de herrajes de protección y sujeción de cables.
+C/U 1.734.932 1.457.547 3.192.479
+TRABAJOS DE MEJORA DE CENTROS DE TRANSFORMACIÓN TIPO PLATAFORMA
+TRABAJOS ADICIONALES EN PLATAFORMA (Excluidos Materiales)
+L.4.3.01.01 CAMBIO DE TRANSFORMADOR IGUAL O MAYOR A 100 kVA. Incluye su desconexionado y conexionado tanto de MT como 
+de BT, el traspaso/montaje del conjunto de descargadores sobre cuba del nuevo transformador y su conexionado con cambio de 
+conductores y terminales.
+C/U 464.732 464.732
+L.4.3.01.02 CAMBIO DE TRANSFORMADOR MENOR O IGUAL 63 kVA. Incluye su desconexionado y conexionado tanto de MT como de 
+BT, el traspaso/montaje del conjunto de descargadores sobre cuba del nuevo transformador y su conexionado con cambio de 
+conductores y terminales.
+C/U 375.740 375.740
+Coordinado: Supervisado:
+Fecha de Edición: Septiembre de 1993 Fecha de Actualización: Revisión Nº
+José Facundo Corso Lucas Waldemar Rodríguez
+noviembre de 2023 74
+Aprobado:
+ Marcelo Licata Caruso
+10 - LISTADO DE PRECIOS DE INSTALACIONES 
+Y MATERIALES DE DISTRIBUCION 10.1 - 20 de 35
+UNIDADES DE OBRA Ingenieria y Obras de Distribución
+Normas Generales
+Página
+SERVICIO DESCRIPCION MATERIAL ($) SYSE ($) TOTAL ($)
+CENTROS DE TRANSFORMACIÓN AÉREOS MT/BT
+UN.
+TRABAJOS DE MEJORA DE CENTROS DE TRANSFORMACIÓN TIPO PLATAFORMA
+ADECUACION DEL CONEXIONADO (Antenado)
+L.4.3.02.01 CAMBIO DE CONEXIONADO COMPLETO DE MEDIA TENSION EN PMA. Por plataforma. C/U 156.331 203.927 360.258
+L.4.3.02.02 CAMBIO DE CONEXIONADO COMPLETO DE BAJA TENSION EN PMA BIPOSTE. Incluye el cambio o la adaptación (con 
+provisión de planchuelas de Cu trabajadas por Contratista) de los terminales pala del transformador para su reconstrucción 
+según lo indicado en la Norma vigente. Por plataforma biposte (cualquier número de salidas).
+C/U 96.135 187.628 283.763
+JABALINAS ADICIONALES. Incluye medición de resistencia
+L.4.3.03.02 INSTALACION DE JABALINA ADICIONAL unida a la anterior u otra existente, para reducir el valor de resistencia de puesta a 
+tierra.
+C/U 20.806 32.613 53.419
+DESMONTAJE DE PLATAFORMAS. Excluye retiro de postes que se abona por Ítems separados.
+L.4.3.04.01 DESMONTAJE DE PLATAFORMA BIPOSTE DE HºAº / MADERA, CON TRANSFORMADOR. Por plataforma. C/U 341.748 341.748
+L.4.3.04.02 DESMONTAJE DE PLATAFORMA MONOPOSTE, con transformador. Por plataforma. C/U 178.311 178.311
+Coordinado: Supervisado:
+Fecha de Edición: Septiembre de 1993 Fecha de Actualización: Revisión Nº
+José Facundo Corso Lucas Waldemar Rodríguez
+noviembre de 2023 74
+Aprobado:
+ Marcelo Licata Caruso
+10 - LISTADO DE PRECIOS DE INSTALACIONES 
+Y MATERIALES DE DISTRIBUCION 10.1 - 21 de 35
+UNIDADES DE OBRA Ingenieria y Obras de Distribución
+Normas Generales
+Página
+SERVICIO DESCRIPCION MATERIAL ($) SYSE ($) TOTAL ($)
+RED SUBTERRÁNEA DE BAJA TENSIÓN
+UN.
+MONTAJE CABLES SUBTERRÁNEO DE BT. Incluye provisión y colocación de ladrillos (o caños en vereda, de ser necesario), cruce de calles (c/reserva), y cualquier 
+otra excavación requerida. Excluye empalmes, terminales, cajas secc. de red y acom. Domiciliarias
+ARMADOS TETRAPOLARES (AISLACION XLPE) sin reparación vereda (en terreno sin piso de material).
+L.5.1.01.01 MONT. CASBT 3x95/50 MM2 AL 1 CABLE sin reparación de vereda KM 3.019.569 19.936.609 22.956.178
+L.5.1.01.02 MONT. CASBT 3X240/120 MM2 AL 1 CABLE sin reparación de vereda KM 7.794.816 19.936.609 27.731.425
+L.5.1.01.03 MONT. CASBT 3X240/120 MM2 AL 2 CABLES sin reparación de vereda KM 15.589.633 31.356.473 46.946.106
+ARMADOS TETRAPOLARES (AISLACION XLPE) con reparación vereda.
+L.5.1.02.01 MONT. CASBT 3x95/50 MM2 AL 1 CABLE con reparación de vereda KM 3.019.569 35.977.966 38.997.535
+L.5.1.02.02 MONT. CASBT 3X240/120 MM2 AL 1 CABLE con reparación de vereda KM 7.794.816 35.977.966 43.772.782
+L.5.1.02.03 MONT. CASBT 3X240/120 MM2 AL 2 CABLES con reparación de vereda KM 15.589.633 56.130.836 71.720.469
+ARMADOS TETRAPOLARES (AISLACION XLPE) con rotura y reparación de piso con hormigón
+L.5.1.03.01 MONT. CASBT 3x95/50 MM2 AL 1 CABLE c/rotura y reparación de piso con hormigón KM 3.019.569 39.380.101 42.399.670
+L.5.1.03.02 MONT. CASBT 3x240/120 MM2 AL 1 CABLE c/rotura y reparación de piso con hormigón KM 7.794.816 39.380.101 47.174.917
+L.5.1.03.03 MONT. CASBT 3x240/120 MM2 AL 2 CABLES c/rotura y reparación de piso con hormigón KM 15.589.633 61.273.177 76.862.810
+ACCESORIOS PARA CABLES SUBTERRÁNEOS DE B.T.
+EMPALME RECTO B.T. Incluye zanjeo adicional al tendido y tapada. No incluye reparación vereda.
+L.5.2.01.01 EJECUCIÓN EMPALME DE TRANSICIÓN API/AS C/U 36.188 107.153 143.341
+L.5.2.01.02 EJECUCIÓN EMPALME AS/AS - API/API C/U 20.696 107.153 127.849
+EMPALMES RECTOS B.T. Incluye zanjeo adicional al tendido y tapada. Con reparación vereda.
+L.5.2.02.01 EJECUCIÓN EMPALME DE TRANSICIÓN API/AS C/U 36.188 148.550 184.738
+L.5.2.02.02 EJECUCIÓN EMPALME AS/AS - API/API C/U 20.696 148.550 169.246
+Coordinado: Supervisado:
+Fecha de Edición: Septiembre de 1993 Fecha de Actualización: Revisión Nº
+José Facundo Corso Lucas Waldemar Rodríguez
+noviembre de 2023 74
+Aprobado:
+ Marcelo Licata Caruso
+10 - LISTADO DE PRECIOS DE INSTALACIONES 
+Y MATERIALES DE DISTRIBUCION 10.1 - 22 de 35
+UNIDADES DE OBRA Ingenieria y Obras de Distribución
+Normas Generales
+Página
+SERVICIO DESCRIPCION MATERIAL ($) SYSE ($) TOTAL ($)
+RED SUBTERRÁNEA DE BAJA TENSIÓN
+UN.
+ACCESORIOS PARA CABLES SUBTERRÁNEOS DE B.T.
+TERMINAL INTERIOR
+L.5.2.03.01 EJECUCIÓN TERMINAL (TIPO INTERIOR) 3X95/50 MM2 C/U 7.074 21.444 28.518
+L.5.2.03.02 EJECUCIÓN TERMINAL (TIPO INTERIOR) 3X240/120 MM2 C/U 10.809 31.128 41.937
+TERMINAL EXTERIOR. Incluye montaje de crucetas y bases portafusibles APR
+L.5.2.04.01 EJECUCIÓN TERMINAL (TIPO EXTERIOR) 3x95/50 MM2 AL Incluye subida de cable a poste y provisión y colocación de 
+herrajes de protección y sujeción de cable.
+C/U 138.628 192.432 331.060
+L.5.2.04.02 EJECUCIÓN TERMINAL (TIPO EXTERIOR) 3x240/120 MM2 AL Incluye subida de cable a poste y provisión y colocación de 
+herrajes de protección y sujeción de cable.
+C/U 260.447 222.681 483.128
+INSTALACION CAJA SECCIONADORA 4x4
+L.5.2.05.01 INSTALACIÓN CAJA SECCIONADORA EN VEREDA (TIPO BUZÓN). Incluye jabalina de p.a.t. y reparación de la vereda 
+afectada.
+C/U 425.857 70.275 496.132
+L.5.2.05.02 INSTALACIÓN CAJA SECCIONADORA EN PARED. Incluye jabalina de p.a.t. y reparación del frente de acuerdo a las 
+condiciones preexistentes.
+C/U 418.787 98.094 516.881
+L.5.2.05.03 INSTALACIÓN CAJA SECCIONADORA EN VEREDA (TIPO BUZÓN), con provisión y colocación de protección mecánica 
+(defensa-Plano N° 676.906). Incluye jabalina de p.a.t. y reparación de la vereda afectada. Por instalación del conjunto.
+CTO 457.672 214.870 672.542
+Coordinado: Supervisado:
+Fecha de Edición: Septiembre de 1993 Fecha de Actualización: Revisión Nº
+José Facundo Corso Lucas Waldemar Rodríguez
+noviembre de 2023 74
+Aprobado:
+ Marcelo Licata Caruso
+10 - LISTADO DE PRECIOS DE INSTALACIONES 
+Y MATERIALES DE DISTRIBUCION 10.1 - 23 de 35
+UNIDADES DE OBRA Ingenieria y Obras de Distribución
+Normas Generales
+Página
+SERVICIO DESCRIPCION MATERIAL ($) SYSE ($) TOTAL ($)
+RED SUBTERRÁNEA DE BAJA TENSIÓN
+UN.
+TRABAJOS ADICIONALES EN CABLES SUBTERRÁNEOS DE BAJA TENSIÓN
+CONEXIONES SUBTERRÁNEAS NUEVAS DE BT. Incl.excav. y relleno del pozo; rotura y rep.de frentes; ejec.del terminal del cable de acom. y conexiones; provisión de: protecc.de cable, mat.albañilería, caño PVC y 
+term.de Cu estañado. No incluye rep. vereda.
+L.5.3.01.01 CONEXIÓN NUEVA DE B.T.CON COLOCACION CAJA TOMA. Incluye ejecución de empalme derivación nuevo y colocación de 
+cable de conexión domiciliaria.
+CTO 107.232 142.371 249.603
+L.5.3.01.02 CONEXIÓN NUEVA DE B.T.SIN COLOCACION CAJA TOMA. Incluye ejecución de empalme derivación nuevo y colocación de 
+cable de conexión domiciliaria.
+C/U 93.939 111.435 205.374
+L.5.3.01.03 Acometida SEMI SUBTERRANEA de BT para Clientes T1 y T2, conectando desde caja de toma existente a LABT.
+Incluye:
+.-Montaje y Conexionado del seccionamiento de BT.
+.-Ejecucion de terminales en ambos extremos del CASBT.
+.-Tendido del cable a una profundidad minima de 0,5m con colocacion de losetas de proteccion (matricula 23578)
+.-Subida del cable al poste, con colocación de chapa de protección mecánica (matrícula 24420, 24421 o 24422, según 
+corresponda) y herrajes de sujeción (provision Contratista).
+.- Incluye la rotura de vereda, excavacion y relleno de zanja. No incluye la reparacion del contrapiso y solado que se abona con 
+item aparte.
+Por conexión completa
+C/U 356.370 228.430 584.800
+RETIRO DE CAJA SECCIONADORA. Incl. Desconexión y/o corte de los cables detrás del terminal, aislación de puntas, rotura de pared y/o vereda,eventual rep. De frentes y/o tapado de pozo y retiro de: caja de 
+maniobra(con o sin toma asociada),P.A.T.. y cables
+L.5.3.03.01 RETIRO CAJA SECCIONADORA (TIPO BUZON) DE RED BT (pared/vereda) C/U 78.894 78.894
+L.5.3.03.02 RETIRO DE CAJA ESQUINERA C/U 234.172 234.172
+RETIRO DE CONEXIONES SUBTERRÁNEAS DE BT.
+L.5.3.04.01 RETIRO DE CONEXIÓN SUBT. DE B.T. Consiste en retiro de caja toma y cable de conexión, con apertura y cierre de empalme 
+de acometida. Por retiro completo.
+C/U 122.990 122.990
+Coordinado: Supervisado:
+Fecha de Edición: Septiembre de 1993 Fecha de Actualización: Revisión Nº
+José Facundo Corso Lucas Waldemar Rodríguez
+noviembre de 2023 74
+Aprobado:
+ Marcelo Licata Caruso
+10 - LISTADO DE PRECIOS DE INSTALACIONES 
+Y MATERIALES DE DISTRIBUCION 10.1 - 24 de 35
+UNIDADES DE OBRA Ingenieria y Obras de Distribución
+Normas Generales
+Página
+SERVICIO DESCRIPCION MATERIAL ($) SYSE ($) TOTAL ($)
+RED SUBTERRÁNEA DE BAJA TENSIÓN
+UN.
+TRABAJOS ADICIONALES EN CABLES SUBTERRÁNEOS DE BAJA TENSIÓN
+COLOCACIÓN DE CABLES DE BT en zanja abierta, en caños existentes y otros, cuando no estén incluidos en el montaje, según Norma e indicaciones de la Inspección
+L.5.3.05.01 TENDIDO DE CABLE ARMADO TETRAPOLAR DE B.T. no incluido en los ítems generales de montaje (L.5.1). También incluye, 
+en caso de que lo disponga la Inspección, el retiro de cables y accesorios existentes sin cargo para Edenor. Por metro de cable 
+colocado.
+ML 7.795 2.451 10.246
+Coordinado: Supervisado:
+Fecha de Edición: Septiembre de 1993 Fecha de Actualización: Revisión Nº
+José Facundo Corso Lucas Waldemar Rodríguez
+noviembre de 2023 74
+Aprobado:
+ Marcelo Licata Caruso
+10 - LISTADO DE PRECIOS DE INSTALACIONES 
+Y MATERIALES DE DISTRIBUCION 10.1 - 25 de 35
+UNIDADES DE OBRA Ingenieria y Obras de Distribución
+Normas Generales
+Página
+SERVICIO DESCRIPCION MATERIAL ($) SYSE ($) TOTAL ($)
+LÍNEA AÉREA DE BAJA TENSIÓN
+UN.
+MONTAJE DE LÍNEAS AÉREAS DE BAJA TENSIÓN. Incluye poda y despunte. Excluye cruces de calle, cajas de interconexión, y acometidas.
+PREENSAMBLADA CON POSTE DE HASTA 9 METROS
+L.6.1.01.01 MONTAJE LABT PREENSAMBLADA CON POSTES h/ 9 METROS 3x25/50 MM2 AL/AA - XLPE KM 3.917.353 6.125.463 10.042.816
+L.6.1.01.02 MONTAJE LABT PREENSAMBLADA CON POSTES h/ 9 METROS 3x50/50 MM2 AL/AA - XLPE KM 4.688.543 6.125.463 10.814.006
+L.6.1.01.03 MONTAJE LABT PREENSAMBLADA CON POSTES h/ 9 METROS 3x95/50 MM2 AL/AA - XLPE KM 5.578.919 6.125.463 11.704.382
+L.6.1.01.04 MONTAJE LABT PREENSAMBLADA CON POSTES h/ 9 METROS 3x150/70 MM2 ALAA - XLPE KM 6.939.481 6.720.113 13.659.594
+PREENSAMBLADA EN POSTES EXISTENTES de cualquier altura
+L.6.1.02.01 MONTAJE LABT PREENSAMBLADA EN POSTE EXISTENTE. 3x25/50 MM2 AL/AA - XLPE KM 1.087.315 2.099.627 3.186.942
+L.6.1.02.02 MONTAJE LABT PREENSAMBLADA EN POSTE EXISTENTE 3x50/50 MM2 AL/AA - XLPE KM 1.858.505 2.099.627 3.958.132
+L.6.1.02.03 MONTAJE LABT PREENSAMBLADA EN POSTE EXISTENTE 3x95/50 MM2 AL/AA - XLPE KM 2.748.881 2.099.627 4.848.508
+L.6.1.02.04 MONTAJE LABT PREENSAMBLADA EN POSTE EXISTENTE 3x150/70 MM2 ALAA - XLPE KM 4.109.443 2.694.277 6.803.720
+PREENSAMBLADA EN POSTE DE 11 METROS
+L.6.1.03.01 MONTAJE LABT PREENSAMBLADA EN POSTE 11 M. 3x25/50 MM2 AL/AA - XLPE KM 4.231.828 7.050.326 11.282.154
+L.6.1.03.02 MONTAJE LABT PREENSAMBLADA EN POSTE 11 M. 3x50/50 MM2 AL/AA - XLPE KM 5.003.018 7.050.326 12.053.344
+L.6.1.03.03 MONTAJE LABT PREENSAMBLADA EN POSTE 11 M. 3x95/50 MM2 AL/AA - XLPE KM 5.893.394 7.050.326 12.943.720
+L.6.1.03.04 MONTAJE LABT PREENSAMBLADA EN POSTE 11 M. 3x150/70 MM2 ALAA - XLPE KM 7.253.956 7.644.976 14.898.932
+Coordinado: Supervisado:
+Fecha de Edición: Septiembre de 1993 Fecha de Actualización: Revisión Nº
+José Facundo Corso Lucas Waldemar Rodríguez
+noviembre de 2023 74
+Aprobado:
+ Marcelo Licata Caruso
+10 - LISTADO DE PRECIOS DE INSTALACIONES 
+Y MATERIALES DE DISTRIBUCION 10.1 - 26 de 35
+UNIDADES DE OBRA Ingenieria y Obras de Distribución
+Normas Generales
+Página
+SERVICIO DESCRIPCION MATERIAL ($) SYSE ($) TOTAL ($)
+LÍNEA AÉREA DE BAJA TENSIÓN
+UN.
+TRABAJOS ADICIONALES EN LÍNEAS AÉREAS DE BAJA TENSIÓN
+MONTAJE DE POSTES H°A°/ MADERA. Incluye excavación, aplomado, relleno pozo, reparación vereda, e instalación de herrajes y morsetería LAPE (simple o doble). La instalación de riendas y P.A.T.. se abonan por 
+separado.
+L.6.3.01.01 INSTAL. POSTE SIMPLE TERMINAL O AMARRE DE H°A° c/ FUNDACION, de 9 METROS 1200 daN, para simple terna 
+preensamblada. Incluye ejecución de fundación y material provisión Contratista.
+C/U 210.982 285.975 496.957
+L.6.3.01.02 INSTAL. POSTE SIMPLE TERMINAL O AMARRE DE H°A° c/ FUNDACION DE 10 a 12 METROS. Incluye ejecución de 
+fundación y material provisión Contratista.
+C/U 226.045 313.636 539.681
+L.6.3.01.03 INSTAL. COMPLETA POSTE DE MADERA DE H/ 9 METROS, SIMPLE SOSTEN, TERMINAL, AMARRE (simple o doble, con o 
+sin desvío/derivación) o CRUCE DE CALLE. Por poste.
+C/U 21.796 51.950 73.746
+L.6.3.01.04 INSTAL. COMPLETA POSTE DE MADERA DE 11 METROS, SIMPLE SOSTEN, TERMINAL, AMARRE (simple o doble, con o sin 
+desvío/derivación). Por poste.
+C/U 37.564 83.263 120.827
+L.6.3.01.05 INSTAL. COMPLETA POSTES DE MADERA DE H/ 9 METROS, DOBLE O POSTE C/CONTRAPOSTE. Incluye provisión 
+contratista de durmientes y tacos de madera. Por estructura completa.
+CTO 67.081 194.851 261.932
+L.6.3.01.06 INSTAL. COMPLETA POSTES DE MADERA DE 11 METROS, DOBLE O POSTE C/CONTRAPOSTE. Incluye provisión 
+contratista de durmientes y tacos de madera. Por estructura completa.
+CTO 87.351 246.801 334.152
+L.6.3.01.07 INSTAL. POSTE SIMPLE TERMINAL O AMARRE DE H°A° c/ FUNDACION, de 9 METROS 2400 daN, para doble terna 
+preensamblada. Incluye ejecución de fundación y material provisión Contratista.
+C/U 270.455 285.975 556.430
+MONTAJE DE ELEMENTOS DE PROTECCIÓN
+L.6.3.02.01 INSTAL.SECCIONADORES PORTAFUSIBLE APR y colocación de ménsula simple/doble de hierro en LABT o Pma. Incluye 
+conexionado a línea o transformador. La ménsula es provisión Edenor
+TER 62.506 111.426 173.932
+TRANSFORMACIÓN DE POSTES EXISTENTES
+L.6.3.03.01 TRANSFORMACION DE POSTE SIMPLE EXISTENTE (de cualquier altura) EN AMARRE CONVENCIONAL-LAPE, terminal ó 
+amarre LAPE-LAPE (simple o doble, con o sin derivación/desvío)
+C/U 5.529 42.131 47.660
+Coordinado: Supervisado:
+Fecha de Edición: Septiembre de 1993 Fecha de Actualización: Revisión Nº
+José Facundo Corso Lucas Waldemar Rodríguez
+noviembre de 2023 74
+Aprobado:
+ Marcelo Licata Caruso
+10 - LISTADO DE PRECIOS DE INSTALACIONES 
+Y MATERIALES DE DISTRIBUCION 10.1 - 27 de 35
+UNIDADES DE OBRA Ingenieria y Obras de Distribución
+Normas Generales
+Página
+SERVICIO DESCRIPCION MATERIAL ($) SYSE ($) TOTAL ($)
+LÍNEA AÉREA DE BAJA TENSIÓN
+UN.
+TRABAJOS ADICIONALES EN LÍNEAS AÉREAS DE BAJA TENSIÓN
+TENSADO DE CONDUCTORES DE LÍNEAS EXISTENTES
+L.6.3.04.01 TENSADO DE CONDUCTORES FLOJOS LAPE O CONVENCIONAL de línea existente. Incluye arreglo de conexiones a 
+Clientes, cruces de calle y puentes, cambio o reparación y nivelado de ménsulas o crucetas, desconexión y conexión de 
+artefactos de alumbrado público. Por Metro de línea completa existente.
+ML 659 659
+ACOMETIDAS (conex al Clte dde L.A.h/11m). Incl. herrajes, prov. pipeta caño pilar, ajuste P.A.T.. medidor y limp habitáculo. La conex. red-protección/medidor se efectuará SIN SECCIONAR los conductores. Si el cliente 
+los hubiese colocado, se le devolverán.
+L.6.3.05.01 INST. O CAMBIO DE CONEXIÓN MONOFASICA A CTE C/ CABLE CONCENTRICO DESDE LINEA O CAJA INTERCONEXION, 
+SIN CRUCE DE CALLE. Por conexión.
+C/U 9.675 14.653 24.328
+L.6.3.05.02 INST. O CAMBIO DE CONEXIÓN MONOFASICA A CTE C/ CABLE CONCENTRICO DESDE LINEA O CAJA INTERCONEXION, 
+CON CRUCE DE CALLE. Por conexión.
+C/U 17.297 17.234 34.531
+L.6.3.05.03 INST. O CAMBIO DE CONEXIÓN TRIFASICA A CTE C/ CABLE CONCENTRICO DESDE LINEA O CAJA INTERCONEXION, 
+SIN CRUCE DE CALLE. Por conexión.
+C/U 28.354 28.090 56.444
+L.6.3.05.04 INST. O CAMBIO DE CONEXIÓN TRIFASICA A CTE C/ CABLE CONCENTRICO DESDE LINEA O CAJA INTERCONEXION, 
+CON CRUCE DE CALLE. Por conexión.
+C/U 48.617 31.887 80.504
+L.6.3.05.05 INSTAL. O CAMBIO CAJA INTERCONEXION MONO / TRIFASICA c/ bornera p/ conexión de acometidas a clientes y alumbrado 
+público. Incluye conexión a la red y provisión y colocación de sistema identificatorio. Por caja.
+C/U 32.553 15.670 48.223
+L.6.3.05.06 TRASPASO (desmontaje y montaje) DE INSTALACIONES PROPIAS Y DE TERCEROS montadas sobre las línea retirada. 
+Válido cuando se trate de un cambio de conductores de LABT. Incluye la reconexión de acometidas (con o sin cruce), el retiro y 
+colocación de conectores normalizados.
+C/U 795 1.945 2.740
+INSTALACIÓN DE RIENDA en postes existente de cualquier tipo y altura. Incluye la reparación de cualquier tipo de vereda. La instalación del poste se tiene en cuenta por ítem separado.
+L.6.3.06.01 INSTAL.RIENDA SIMPLE CON ANCLAJE ARTICULADO (c/durmiente). Incl. Ejec.y relleno del pozo. Con provisión de durmiente 
+de quebracho por Contratista. Por rienda.
+C/U 33.442 79.648 113.090
+L.6.3.06.02 INSTAL.RIENDA SIMPLE CON ANCLAJE HELICOIDAL. Por rienda. C/U 34.151 39.322 73.473
+Coordinado: Supervisado:
+Fecha de Edición: Septiembre de 1993 Fecha de Actualización: Revisión Nº
+José Facundo Corso Lucas Waldemar Rodríguez
+noviembre de 2023 74
+Aprobado:
+ Marcelo Licata Caruso
+10 - LISTADO DE PRECIOS DE INSTALACIONES 
+Y MATERIALES DE DISTRIBUCION 10.1 - 28 de 35
+UNIDADES DE OBRA Ingenieria y Obras de Distribución
+Normas Generales
+Página
+SERVICIO DESCRIPCION MATERIAL ($) SYSE ($) TOTAL ($)
+LÍNEA AÉREA DE BAJA TENSIÓN
+UN.
+TRABAJOS ADICIONALES EN LÍNEAS AÉREAS DE BAJA TENSIÓN
+INSTALACIÓN DE PUESTA A TIERRA EN LABT. Incluye la unión jabalina-conductor (método normalizado). Incluye también la medición del valor de resistencia una vez concluida la tarea.
+L.6.3.07.01 INSTAL.JABALINA DE P.A.T. de h/ 3 M de longitud, en postes de MAD./ H°A° de cualquier altura, y su correspondiente conexión 
+al neutro de línea. Incluye también la colocación de la protección normalizada. Por puesta a tierra completa.
+C/U 35.325 31.240 66.565
+L.6.3.07.02 COLOCACIÓN JABALINA P.A.T. ADICIONAL en poste de línea, conectándola con el método indicado por la Inspección a la 
+p.a.t. existente. Incluye ejecución y tapado del pozo y en caso de ser necesario la reparación de la vereda.
+C/U 14.966 22.805 37.771
+RETIRO DE LÍNEAS AÉREAS DE BAJA TENSIÓN
+RETIRO DE L.A.B.T. Excluye acometidas y cruces de calle. Incluye retiro de puentes y ochavas.
+L.6.4.01.01 RETIRO DE L.A.B.T. COMPLETA. Incluye retiro de postes. KM 1.295.020 1.295.020
+L.6.4.01.02 RETIRO CONDUCTORES L.A.B.T CONVENCIONAL. Incluye retiro de crucetas y herrajes. Por KM lineal de fase o neutro. KM 264.290 264.290
+L.6.4.01.03 RETIRO CONDUCTORES L.A.B.T PREENSAMBLADA, en desmontajes pequeños y dispersos. Por metro lineal de cable 
+tetrapolar.
+M 396 396
+RETIRO DE POSTES DE LABT. Incluye crucetas y/o herrajes de todo tipo y en caso de ser necesario relleno del pozo, apisonado y reparación de cualquier tipo de vereda.
+L.6.4.02.01 RETIRO POSTE O CONTRAPOSTE MADERA O POSTE H° SIN FUNDACION DE h/ 11 M de altura. Por poste. C/U 16.291 16.291
+L.6.4.02.02 RETIRO POSTE DOBLE O POSTE CON CONTRAPOSTE MADERA h/ 11 M de altura. Por ambos postes. CTO 30.896 30.896
+L.6.4.02.03 RETIRO POSTE DE H°A° c/ FUNDACION, cortándolo al ras de la base. Por poste C/U 63.348 63.348
+Coordinado: Supervisado:
+Fecha de Edición: Septiembre de 1993 Fecha de Actualización: Revisión Nº
+José Facundo Corso Lucas Waldemar Rodríguez
+noviembre de 2023 74
+Aprobado:
+ Marcelo Licata Caruso
+10 - LISTADO DE PRECIOS DE INSTALACIONES 
+Y MATERIALES DE DISTRIBUCION 10.1 - 29 de 35
+UNIDADES DE OBRA Ingenieria y Obras de Distribución
+Normas Generales
+Página
+SERVICIO DESCRIPCION MATERIAL ($) SYSE ($) TOTAL ($)
+MEDICIONES
+UN.
+INSTALACIÓN DE MEDIDORES TARIFA 1 CON PROTECCIÓN TERMOMAGNÉTICA. Incluye el costo de medidor y termomagnética.
+INSTALACIÓN MEDIDORES TARIFA 1 CON PROTECCIÓN TERMOMAGNÉTICA, en obra (no incluye materiales)
+L.7.1.01.01 INSTALACIÓN MEDIDORES MONOFÁSICOS T1 Y TERMOMAGNÉTICA (EN OBRA) C/U 7.821 7.529 15.350
+L.7.1.01.02 INSTALACIÓN MEDIDORES TRIFÁSICOS T1 Y TERMOMAGNÉTICA (EN OBRA) C/U 7.927 8.878 16.805
+INSTALACIÓN DE MEDIDORES TARIFA 2
+INSTALACIÓN MEDIDORES TARIFA 2
+L.7.2.01.01 INSTALACIÓN MEDIDORES TRIFÁSICOS T2 HASTA 50 KW. C/U 153.978 7.028 161.006
+L.7.2.01.02 INSTALACIÓN DE MEDIDOR TRIFASICO T2 c/MEDICIÓN INDIRECTA. Incluye la provisión de cables para conexión de la 
+medición de 4 mm2 de sección, sus terminales y precintos plásticos. Por medidor
+C/U 317.447 36.152 353.599
+INSTALACIÓN DE MEDIDORES TARIFA 3
+TARIFA 3, CON MEDIDOR ALPHA. Excluye montaje de gabinete de medidores.
+L.7.3.01.01 INSTALACIÓN MEDIDOR ALPHA T3 EN MEDIA TENSIÓN, CON RESPALDO. Incluye cableado trafos - bornera T3. No incluye 
+montaje de TI ni TT en celda de MT.
+C/U 137.655 68.607 206.262
+L.7.3.01.02 INSTALACIÓN MEDIDOR ALPHA T3 EN BAJA TENSIÓN, CON RESPALDO. Incluye colocación de caja toma, TI de BT, bases 
+portafusibles y conexionado.
+C/U 257.787 120.755 378.542
+MEDICIONES EN URBANIZACIONES ESPECIALES
+MONTAJE DE CAJAS MULTIMEDIDORES MIDE PARA URBANIZACIONES ESPECIALES (NTR-6)
+L.7.4.01.01 INSTALACIÓN DE CAJA MULTIMEDIDOR MIDE en columna existente con herrajes normalizados provistos por Edenor y 
+conexionado de todos las Unidades Metrológicas (UMs). Por conjunto de tareas en Caja Multimedidor.
+CTO 114.013 100.839 214.852
+L.7.4.01.02 PROVISIÓN Y COLOCACIÓN DE HERRAJE ANTITREPADOR en postes existentes, exclusivo para barrios carenciados donde 
+se encuentren instaladas Cajas Multimedidores. Por antitrepador colocado.
+C/U 91.634 91.634
+L.7.4.01.03 INSTALACIÓN DE CONCENTRADOR PARA MIDE en columna existente. C/U 154.787 34.789 189.576
+Coordinado: Supervisado:
+Fecha de Edición: Septiembre de 1993 Fecha de Actualización: Revisión Nº
+José Facundo Corso Lucas Waldemar Rodríguez
+noviembre de 2023 74
+Aprobado:
+ Marcelo Licata Caruso
+10 - LISTADO DE PRECIOS DE INSTALACIONES 
+Y MATERIALES DE DISTRIBUCION 10.1 - 30 de 35
+UNIDADES DE OBRA Ingenieria y Obras de Distribución
+Normas Generales
+Página
+SERVICIO DESCRIPCION MATERIAL ($) SYSE ($) TOTAL ($)
+MEDICIONES
+UN.
+MEDICIONES EN URBANIZACIONES ESPECIALES
+MONTAJE ACOMETIDAS MÚLTIPLES CON CONCÉNTRICOS PARA URBANIZACIONES ESPECIALES (NTR-6)
+L.7.4.02.01 TENDIDO DE MÚLTIPLES ACOMETIDAS CON CONCÉNTRICO DE SECCIÓN 4+4 KM 768.500 357.950 1.126.450
+L.7.4.02.02 TENDIDO DE MÚLTIPLES ACOMETIDAS CON CONCÉNTRICO DE SECCIÓN 6+6 KM 1.170.406 357.950 1.528.356
+L.7.4.02.03 TENDIDO DE MÚLTIPLES ACOMETIDAS CON CONCÉNTRICO DE SECCIÓN 10+10 KM 1.706.281 357.950 2.064.231
+TAREAS COMPLEMENTARIOS DE PISO PARA LA INSTALACIÓN DE MEDIDORES MIDE
+L.7.4.03.01 TAREAS DE PISO MIDE necesarias para la instalación del medidor Bicuerpo comunicado PLC relacionadas con la conexión de 
+la Unidad de Teclado y Display (UTD), caja IP y kit caño pilar. Por conjunto de tareas para cada suministro.
+C/U 12.895 13.941 26.836
+L.7.4.03.02 GESTIÓN DE CONTRATACIÓN CON EL CLIENTE para medidores auto-administrados, tarea asociada a la instalación del 
+medidor bicuerpo. Por Cliente.
+C/U 5.191 5.191
+L.7.4.03.03 INSTALACIÓN DE PILAR MONOPOSTE DE MADERA para montaje de cajas IP con acometidas de medidores MIDE en 
+urbanizaciones especiales.
+C/U 5.029 20.445 25.474
+MEDICIONES DE CORRIENTE EN PLATAFORMA
+MEDICIONES DE CORRIENTE EN PLATAFORMA / CONCENTRADORES
+L.7.5.01.01 Montaje en Pma. biposte de gabinete para equipo medidor de energía y transformadores de corriente en bornes BT de 
+transformador en el momento del montaje de la plataforma o como "aprovechamiento" en un descargo. Incluye la tarea de 
+armado de gabinete con su equipo en obrador. No incluye los tranformadores de corriente. Por equipo.
+C/U 115.155 22.775 137.930
+Coordinado: Supervisado:
+Fecha de Edición: Septiembre de 1993 Fecha de Actualización: Revisión Nº
+José Facundo Corso Lucas Waldemar Rodríguez
+noviembre de 2023 74
+Aprobado:
+ Marcelo Licata Caruso
+10 - LISTADO DE PRECIOS DE INSTALACIONES 
+Y MATERIALES DE DISTRIBUCION 10.1 - 31 de 35
+UNIDADES DE OBRA Ingenieria y Obras de Distribución
+Normas Generales
+Página
+SERVICIO DESCRIPCION MATERIAL ($) SYSE ($) TOTAL ($)
+TAREAS COMUNES MT/BT
+UN.
+TRABAJOS COMPLEMENTARIOS PARA CABLES SUBTERRÁNEOS DE MEDIA Y BAJA TENSIÓN
+RECONSTRUCCION DE VEREDAS. Incluye materiales. (Solo para aquellos casos en que no esté incluida en la conformación de la tarea)
+L.8.1.01.01 REPARACIÓN DE VEREDA TIPO MOSAICO CALCÁREO, LOSETA (Cemento y Graníticas) O ALISADO DE CEMENTO. POR 
+METRO LINEAL PARA UN ANCHO DE 0,4 METROS. Válido para casos especiales en que la reparación no esté incluida en la 
+conformación de la tarea. No incluye rotura de piso.
+ML 15.835 15.835
+L.8.1.01.02 Aserrado de paño o sub paño de hormigón más desmonte con retiro de escombros y Construcción por M2 de vereda de cemento 
+peinado con malla SIMA. 
+Valido exclusivamente para cumplimentar exigencias Municipales respecto a la reparación integral de paño o semi paño en 
+veredas de cemento peinado. Por M2.
+De uso exclusivo y complementario a tareas de Montaje con rotura de vereda de H° (Familias L.1.3.03 y L.5.1.03)
+Nota: Definido y aprobado por el representante del Municipio el paño o sub paño a reparar, el aserrado deberá preservar sin 
+daños el paño contiguo. Caso contrario la reparación de esta superficie correrá por cuenta de la contratista.
+La reparación deberá cumplir las siguientes condiciones:
+El ancho del nuevo sub-paño será igual o mayor a 1,20 m.
+Espesor según el de la vereda preexistente no menor a 8 cm.
+Malla sima electrosoldada de 15x25 cm Ф 4,2 mm y 15x15 cm Ф 6 mm en garaje colocada a 1/3 de la profundidad del paño a 
+reconstruir.
+Hormigón calidad H-21 (Dosaje 1:3:3) 1 parte de Cemento; 3 partes de Arena; 3 partes de Piedra Partida (No cascote)
+M2 50.277 50.277
+RECONSTRUCCION DE CALZADAS. Incluye materiales.
+L.8.1.02.01 RECONSTRUCCIÓN DE ADOQUINADO. Por metro lineal ML 17.899 17.899
+L.8.1.02.02 RECONSTRUCCIÓN DE HORMIGÓN. Por metro lineal ML 18.598 18.598
+L.8.1.02.03 RECONSTRUCCIÓN DE ASFALTO. Por metro lineal ML 38.788 38.788
+Coordinado: Supervisado:
+Fecha de Edición: Septiembre de 1993 Fecha de Actualización: Revisión Nº
+José Facundo Corso Lucas Waldemar Rodríguez
+noviembre de 2023 74
+Aprobado:
+ Marcelo Licata Caruso
+10 - LISTADO DE PRECIOS DE INSTALACIONES 
+Y MATERIALES DE DISTRIBUCION 10.1 - 32 de 35
+UNIDADES DE OBRA Ingenieria y Obras de Distribución
+Normas Generales
+Página
+SERVICIO DESCRIPCION MATERIAL ($) SYSE ($) TOTAL ($)
+TAREAS COMUNES MT/BT
+UN.
+TRABAJOS COMPLEMENTARIOS PARA CABLES SUBTERRÁNEOS DE MEDIA Y BAJA TENSIÓN
+EMBLOCADO DE CABLES. Incluye materiales.
+L.8.1.03.01 EMBLOCADO DE 4 CAÑOS para pasaje de cables subterráneos de acuerdo a NTI3. Incluye: rotura de piso, excavación, 
+provisión y colocación de caños, provisión y colocación de Hormigón (Densidad Controlada), relleno y compactado de zanja, 
+retiro de sobrantes y limpieza final. No incluye reparación de vereda/calzada y tendido de cables de MT/BT que se abonan por 
+ítem separado. Por metro lineal de emblocado de 4 caños.
+ML 71.905 71.905
+L.8.1.03.02 EMBLOCADO DE 6 CAÑOS para pasaje de cables subterráneos de acuerdo a NTI3. Incluye: rotura de piso, excavación, 
+provisión y colocación de caños, provisión y colocación de Hormigón (Densidad Controlada), relleno y compactado de zanja, 
+retiro de sobrantes y limpieza final. No incluye reparación de vereda/calzada y tendido de cables de MT/BT que se abonan por 
+ítem separado. Por metro lineal de emblocado de 6 caños.
+ML 116.144 116.144
+L.8.1.03.03 CÁMARA DE INSPECCIÓN PARA EMBLOCADO de cables (Válido cuando se realice Obra Civil según NTI8). Incluye: rotura de 
+piso, excavación, provisión y colocación de materiales (Hormigón y tapas), retiro de sobrantes y limpieza final. No incluye 
+reparación de vereda/calzada que se abona por ítem separado. Por m3 de cámara.
+M3 95.890 95.890
+Coordinado: Supervisado:
+Fecha de Edición: Septiembre de 1993 Fecha de Actualización: Revisión Nº
+José Facundo Corso Lucas Waldemar Rodríguez
+noviembre de 2023 74
+Aprobado:
+ Marcelo Licata Caruso
+10 - LISTADO DE PRECIOS DE INSTALACIONES 
+Y MATERIALES DE DISTRIBUCION 10.1 - 33 de 35
+UNIDADES DE OBRA Ingenieria y Obras de Distribución
+Normas Generales
+Página
+SERVICIO DESCRIPCION MATERIAL ($) SYSE ($) TOTAL ($)
+TAREAS COMUNES MT/BT
+UN.
+TRABAJOS COMPLEMENTARIOS PARA CABLES SUBTERRÁNEOS DE MEDIA Y BAJA TENSIÓN
+PERFORACIONES CON TUNELERA DIRIGIDA. Conjunto de ítems necesarios para el pago del servicio de tuneleo dirigido, la provisión y colocación de tanza guía, caños de PEAD y Tritubo.
+L.8.1.04.01 Costo fijo por obra de cruce dirigido. Corresponde al valor unitario a abonar en concepto de amortización, traslado y 
+posicionamiento de equipo. También incluye los pozos para retención de barros necesarios para la perforación.
+El pago final de una perforación dirigida quedará conformado por el pago de este servicio más los metros de perforación 
+específica que correspondan, la tracción del tritubo y los materiales colocados.
+C/U 624.871 624.871
+L.8.1.04.02 Perforación dirigida bajo CALLE y posterior pasaje de 1 CAÑO PEAD de 160 mm de diámetro. Válido para perforaciones bajo 
+Calle / Avenida / Autopista / FFCC. Por metro lineal de perforación medida en superficie, entre la entrada y salida de la mecha.
+No incluye Material PEAD/TRITUBO que se abona por ítem separado.
+ML 14.601 14.601
+L.8.1.04.03 Perforación dirigida bajo RÍO y posterior pasaje de 1 CAÑO PEAD de 160 mm de diámetro. Válido para perforaciones bajo RÍO ó 
+ARROYO (En continente). Por metro lineal de perforación medida en superficie, entre la entrada y salida de la mecha.
+No incluye Material PEAD/TRITUBO que se abona por ítem separado.
+ML 18.251 18.251
+L.8.1.04.04 Perforación dirigida bajo CALLE, ensanche y posterior pasaje de 2 CAÑOS PEAD de 160mm de diámetro.
+Válido para perforaciones bajo Calle / Avenida / Autopista / FFCC. Por metro lineal de perforación medida en superficie, entre la 
+entrada y salida de la mecha.
+Uso para casos excepcionales con APROBACIÓN PREVIA DE SUBGCIA. INGENIERÍA DE DISTRIBUCIÓN Y 
+NORMALIZACIÓN.
+No incluye Material PEAD/TRITUBO que se abona por ítem separado.
+ML 24.821 24.821
+L.8.1.04.05 Perforación dirigida bajo RÍO, ensanche y posterior pasaje de 2 CAÑOS PEAD de 160mm de diámetro.
+Válido para perforaciones bajo RÍO ó ARROYO (En continente). Por metro lineal de perforación medida en superficie, entre la 
+entrada y salida de la mecha.
+Uso para casos excepcionales con APROBACIÓN PREVIA DE SUBGCIA. INGENIERÍA DE DISTRIBUCIÓN Y 
+NORMALIZACIÓN.
+No incluye Material PEAD/TRITUBO que se abona por ítem separado.
+ML 31.027 31.027
+L.8.1.04.06 Perforación dirigida bajo CALLE, ensanche y posterior pasaje de 3 CAÑOS PEAD de 160mm de diámetro.
+Válido para perforaciones bajo Calle / Avenida / Autopista / FFCC. Por metro lineal de perforación medida en superficie, entre la 
+entrada y salida de la mecha.
+Uso para casos excepcionales con APROBACIÓN PREVIA DE SUBGCIA. INGENIERÍA DE DISTRIBUCIÓN Y 
+NORMALIZACIÓN.
+No incluye Material PEAD/TRITUBO que se abona por ítem separado.
+ML 29.932 29.932
+Coordinado: Supervisado:
+Fecha de Edición: Septiembre de 1993 Fecha de Actualización: Revisión Nº
+José Facundo Corso Lucas Waldemar Rodríguez
+noviembre de 2023 74
+Aprobado:
+ Marcelo Licata Caruso
+10 - LISTADO DE PRECIOS DE INSTALACIONES 
+Y MATERIALES DE DISTRIBUCION 10.1 - 34 de 35
+UNIDADES DE OBRA Ingenieria y Obras de Distribución
+Normas Generales
+Página
+SERVICIO DESCRIPCION MATERIAL ($) SYSE ($) TOTAL ($)
+TAREAS COMUNES MT/BT
+UN.
+TRABAJOS COMPLEMENTARIOS PARA CABLES SUBTERRÁNEOS DE MEDIA Y BAJA TENSIÓN
+PERFORACIONES CON TUNELERA DIRIGIDA. Conjunto de ítems necesarios para el pago del servicio de tuneleo dirigido, la provisión y colocación de tanza guía, caños de PEAD y Tritubo.
+L.8.1.04.07 Perforación dirigida bajo RÍO, ensanche y posterior pasaje de 3 CAÑOS PEAD de 160mm de diámetro.
+Válido para perforaciones bajo RÍO ó ARROYO (En continente). Por metro lineal de perforación medida en superficie, entre la 
+entrada y salida de la mecha.
+Uso para casos excepcionales con APROBACIÓN PREVIA DE SUBGCIA. INGENIERÍA DE DISTRIBUCIÓN Y 
+NORMALIZACIÓN.
+No incluye Material PEAD/TRITUBO que se abona por ítem separado.
+ML 37.414 37.414
+L.8.1.04.08 Tracción de tritubo junto con caño/s PEAD. Uso conjunto con ítem de perforación para 1, 2 o 3 Caños PEAD. Por metro. No 
+incluye el valor del tritubo que se abona por ítem separado.
+ML 1.366 1.366
+L.8.1.04.10 Provisión de caño PEAD PN10 d=160mm en tuneleo dirigido, incluye tapas y cuerda guía cuando se corresponda a caño de 
+reserva. Por metro de caño.
+ML 15.784 15.784
+L.8.1.04.11 Provisión de tritubo PEAD de 40 mm de diámetro y 3 mm de espesor en tuneleo dirigido, con colocación de tapones. Por metro 
+de tritubo.
+ML 3.308 3.308
+TAREAS COMPLEMENTARIAS EXCLUSIVAS PARA TUNELEO DIRIGIDO
+L.8.1.05.01 POZOS de ataque / recibo en trabajos de TUNELEO DIRIGIDO para pasaje de cables MT/BT. Incluye rotura del piso existente, 
+encajonamiento y retiro de sobrantes. También incluye, en caso de ser necesario, tareas por desmoronamiento.
+M3 33.603 33.603
+L.8.1.05.02 Alquiler de camión atmosférico "BARRERO" (capacidad aprox. 20 M3) para retiro de lodos no contaminados en pozo de ataque 
+/recibo, generados en tareas de perforación dirigida. Por jornada
+C/U 259.400 259.400
+L.8.1.05.03 Alquiler de equipo desobstructor combinado (aspiración y lavado) tipo "VACTOR" (capacidad aprox. 10 M3) para desobstrucción 
+de cañerias de cruce de calle o retiro de lodos no contaminados en pozo de ataque /recibo de perforaciones dirigidas, que por su 
+alta densidad no se puedan remover con camión atmosferico. Por jornada
+C/U 432.334 432.334
+Coordinado: Supervisado:
+Fecha de Edición: Septiembre de 1993 Fecha de Actualización: Revisión Nº
+José Facundo Corso Lucas Waldemar Rodríguez
+noviembre de 2023 74
+Aprobado:
+ Marcelo Licata Caruso
+10 - LISTADO DE PRECIOS DE INSTALACIONES 
+Y MATERIALES DE DISTRIBUCION 10.1 - 35 de 35
+UNIDADES DE OBRA Ingenieria y Obras de Distribución
+Normas Generales
+Página
+SERVICIO DESCRIPCION MATERIAL ($) SYSE ($) TOTAL ($)
+TAREAS COMUNES MT/BT
+UN.
+VERIFICACIÓN Y PUESTA EN SERVICIO DE INSTALACIONES
+VERIFICACIÓN Y PUESTA EN SERVICIO DE INSTALACIONES (Válido de Lunes a Sábados. Para Domingos o Feriados aplicar coeficiente de ajuste 1,8)
+L.8.2.02.01 Identificación en zanja CSMT/CSBT, corte, pruebas de aislación, continuidad e identificación de fases para puesta en servicio de 
+instalaciones.
+C/U 185.388 185.388
+L.8.2.02.02 Aporte de recursos para Pedido de Instalaciones aéreas, incluye transporte y equipamiento necesario. Por pedido de instalación 
+realizado o suspendido no atribuible al contratista.
+C/U 204.038 204.038
+L.8.2.02.03 Aporte de recursos para Pedido de Instalaciones subterráneas. Incluye transporte y equipamiento neces
